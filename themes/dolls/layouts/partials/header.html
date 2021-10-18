@@ -1,0 +1,109 @@
+<section class="columns top-bar">
+  <div class="container">
+    <div class="column">
+      <nav class="navbar" role="navigation" aria-label="main navigation">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}">
+              Mary Fortuna
+            </a>
+        
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavBar">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+          <div id="mainNavBar" class="navbar-menu">
+            <div class="navbar-start">
+                {{- $currentPage := . -}}
+                {{- range .Site.Menus.main -}}
+                {{- if .HasChildren -}}
+                <div class="navbar-item has-dropdown is-hoverable">
+                  <a href="{{- .URL | absURL -}}" class="navbar-link {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    {{- .Name -}}
+                  </a>            
+                  <div class="navbar-dropdown">
+                    {{- range .Children -}}
+                    {{- if .HasChildren -}}
+                      <div class="navbar-item has-dropdown is-hoverable">
+                          <a href="{{- .URL | absURL -}}" class="navbar-link {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                              {{- .Name -}}
+                            </a>
+                                <div class="navbar-dropdown">
+                                  {{- range .Children -}}
+                                <a href="{{ .URL | absURL }}" class="navbar-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                  {{- .Name -}}
+                                </a>
+                                <hr class="navbar-divider"> 
+                                {{ else }} 
+                                <a href="{{ .URL | absURL }}" class="navbar-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                  {{- .Name -}}
+                                </a>
+                              {{ end }}
+                                </div> 
+                      </div>
+                      {{ else }}
+                      <a href="{{- .URL | absURL -}}" class="navbar-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                          {{- .Name -}}
+                        </a>
+                        <hr class="navbar-divider">  
+                      {{ end }}
+                      {{ end }}
+                  </div>
+                </div>
+                {{ else }}
+                  <a href="{{ .URL | absURL}}" class="navbar-item">{{ .Name }}</a>
+                {{ end }}  
+                {{ end }}      
+            </div>
+          </div>
+        </nav>
+  </div>
+  </div>
+</section>
+{{- if .IsHome -}}
+<header class="container header-background">
+  <img data-src="/gallery/collages/images/Darkness_Darkness_2018_q6t7q4.jpg" class="lazy">
+  <div class="columns">
+    <div id="titleContainer" class="column is-half">
+      <h1 class="mt-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">{{ .Title }}</h1>
+      <h2 class="mb-6" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="100">{{- .Params.subtitle -}}</h2>
+      <p class="mb-6 pb-5" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="1500">{{ .Params.skills }}</p>
+    </div>
+    <div class="column is-half">
+      <div class="swiper" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="100">
+        <div class="swiper-wrapper">
+          <!-- Lazy image -->
+          {{ range .Site.Data.headerImages.data }}
+          <div class="swiper-slide">
+            <figure class="image">
+              <img data-src="{{- .src -}}" class="swiper-lazy" alt="{{ .alt }}" height="325" width="325"/>
+            </figure>
+            <div class="swiper-lazy-preloader"></div>
+          </div>
+          {{ end }}
+        </div>
+         <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+  
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+      </div>
+      
+    </div>
+  </div>
+  
+</header>
+{{- else -}}
+<header class="container">
+  <div class="columns">
+    <div class="column is-12">
+      <h1>{{- .Title  -}}</h1>
+    </div>
+    <div class="column"></div>
+  </div>
+</header>
+
+{{ end }}

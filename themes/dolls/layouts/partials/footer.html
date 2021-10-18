@@ -1,0 +1,62 @@
+<footer class="footer">
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <h3>About The Artist</h3>
+                <hr class="has-background-primary" />
+                <p>Mary Fortuna recently moved to Traverse City from the Detroit area. Currently, she works primarily in soft sculpture and textiles, and has exhibited her work all over Michigan, as well as nationally and internationally.
+                </p>
+            </div>
+            <!-- Minify Contact Form -->
+            <div class="column">
+                <h3>Contact </h3>
+                <hr class="has-background-primary">
+                <form action="">
+                    <!-- Name Field-->
+                    <div class="field">
+                        <label for="name" class="label">Name</label>
+                        <div class="control">
+                          <input class="input" id="name" name="name" type="text" placeholder="e.g Alex Smith">
+                        </div>
+                      </div>
+                      <!-- Email Field-->
+                      <div class="field">
+                        <label for="email" class="label">Email</label>
+                        <div class="control">
+                          <input id="email" name="email" class="input" type="email" placeholder="e.g. alexsmith@gmail.com">
+                        </div>
+                      </div>
+                      <!-- Message Field -->
+                      <div class="field">
+                        <label for="message" class="label">Message</label>
+                        <div class="control">
+                            <textarea name="message" id="message" placeholder="Write me a message here..." class="textarea" cols="30" rows="2"></textarea>
+                        </div>
+                      </div>
+                      <div class="field">
+                          <button class="button is-primary">Submit</button>
+                      </div>
+                </form>
+            </div>
+            <!-- Footer Links -->
+            <div class="column">
+                <h3>Menu</h3>
+                <hr class="has-background-primary">
+                <ul>
+                    {{ range .Site.Menus.main}}
+                    <li><a href="{{- .URL | absURL -}}" class="navbar-item" title="{{ .Title }}">{{ .Name }}</a></li>
+                {{ end }}
+                </ul>
+            </div>
+            <div class="column">
+                <h3>Follow Mary Fortuna</h3>
+                <hr class="has-background-primary">
+                {{ range .Site.Params.social}}
+                    <a href="{{ .URL}}" title="{{ .name }}" class="social-icon has-background-primary"><i class="{{.icon}}"></i></a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</footer>
+
+{{ partial "scripts.html"  }}

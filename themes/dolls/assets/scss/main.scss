@@ -1,0 +1,182 @@
+@import './_mixins.scss';
+
+/*************
+**Typography**
+**************/
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 2.75rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+a {
+    @include transition;
+}
+
+p {
+    margin: 1rem auto;
+    max-width: 70ch
+}
+
+
+
+
+
+
+
+/*****************
+**General Styles**
+******************/
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+img.lazy {
+    @include transition;
+    opacity: 0;
+}
+
+.social-icon {
+    @include transition;
+    align-items: center;
+    border-radius: 50%;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    width: 50px;
+    .fa {
+        @include transition;
+        color: #fff;
+        &:hover {
+            color: #666;
+        }
+    }
+    &:hover {
+        background-color: #e6e6e6 !important;
+        .fa {
+            color: #333;
+        }
+    }
+}
+
+.section {
+    margin: auto;
+}
+
+
+
+header {
+    display: grid;
+    place-items: center;
+}
+
+header.header-background {
+    position: relative;
+    img.lazy {
+        display: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        object-fit: cover;
+        opacity: .1;
+        height: 100%;
+        width: 100%;
+    }
+}
+
+#titleContainer {
+    display: grid;
+    padding: 1rem !important;
+    place-items: start;
+    h1 {
+        padding: 1rem;
+    }
+}
+
+
+/**************************
+**Custom Navigation Styes**
+***************************/
+
+#mainNavBar {
+    transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    opacity: 0;
+}
+
+@media screen and (min-width: 960px) {
+    #mainNavBar {
+        opacity: 1;
+    }
+}
+
+
+
+/***********************
+**Custom Swiper Styles**
+************************/
+
+    .swiper-lazy {
+        max-height: 75vh;
+        object-fit: contain;
+    }
+    
+    .swiper-button-prev,
+    .swiper-button-next {
+        color: #000;
+        opacity: 0;
+        transition: all 500ms ease;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+    }
+    
+    .swiper-button-prev {
+        transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+    }
+    
+    .swiper-button-next {
+        transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+    }
+    
+    .swiper {
+        min-width: 300px;
+        max-width: 360px;
+        &:hover {
+            .swiper-button-prev,
+            .swiper-button-next {
+                opacity: 1;
+                transform: translateX(0%);
+                -webkit-transform: translateX(0%);
+                -moz-transform: translateX(0%);
+            }
+        }
+    }
+
+    @media screen and (min-width: 1200px) {
+        .swiper {
+            max-width: 600px;
+        }
+    }
+
+
+
+
+
+
+

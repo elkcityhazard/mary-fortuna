@@ -1,0 +1,5 @@
+@mixin transition {
+    transition: all 250ms linear;
+    -webkit-transition: all 250ms linear;
+    -moz-transition: all 250ms linear;
+}

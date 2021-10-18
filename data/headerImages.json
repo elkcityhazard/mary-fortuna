@@ -1,0 +1,19 @@
+{
+    "data" : [
+        {
+            "id" : 0,
+            "src" : "/gallery/dolls/leather-dolls/images/Babe_the_Blue_Ox_2016_rm8exs.jpg",
+            "alt" : "Babe The Blue - 2016"
+        },
+        {
+            "id" : 1,
+            "src" : "/gallery/dolls/leather-dolls/images/Bear_Man_2016_obr99y.jpg",
+            "alt" : "Bear Man - 2016"
+        },
+        {
+            "id" : 2,
+            "src" : "/gallery/dolls/leather-dolls/images/Bluebird_of_Happiness_2016_eaoz80.jpg",
+            "alt" : "Bluebird Of Happiness - 2016"
+        }
+    ]
+}
