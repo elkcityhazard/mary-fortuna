@@ -64,12 +64,11 @@
 </section>
 {{- if .IsHome -}}
 <header class="container header-background">
-  <img data-src="/gallery/collages/images/Darkness_Darkness_2018_q6t7q4.jpg" class="lazy">
   <div class="columns">
-    <div id="titleContainer" class="column is-half">
-      <h1 class="mt-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">{{ .Title }}</h1>
-      <h2 class="mb-6" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="100">{{- .Params.subtitle -}}</h2>
-      <p class="mb-6 pb-5" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="1500">{{ .Params.skills }}</p>
+    <div class="column is-half is-flex is-flex-direction-column is-justify-content-center is-align-content-center">
+      <h1 class="" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">{{ .Title }}</h1>
+      <h2 class="" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="750">{{- .Params.subtitle -}}</h2>
+      <p class="" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="1500">{{ .Params.skills }}</p>
     </div>
     <div class="column is-half">
       <div class="swiper" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="100">
@@ -100,9 +99,8 @@
 <header class="container">
   <div class="columns">
     <div class="column is-12">
-      <h1>{{- .Title  -}}</h1>
+      <h1 class="has-text-centered mt-5 is-size-1-mobile">{{- .Title  -}}</h1>
     </div>
-    <div class="column"></div>
   </div>
 </header>
 

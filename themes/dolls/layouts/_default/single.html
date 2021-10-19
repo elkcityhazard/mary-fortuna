@@ -5,13 +5,12 @@
         {{ with .Resources.ByType "image" }}
         {{ range . }}
         {{ $image := .}}
-        {{ $resized := $image.Fill "350x350 webp photo" }}
-        {{ $fullsize := $image.Resize "600x webp photo" }}
+        {{ $resized := $image.Fill "270x270 jpeg" }}
+        {{ $fullsize := $image.Resize "900x webp jpeg" }}
         {{ $thumb := $image.Resize "75x75 webp photo"}}
             <div class="column is-3 mx-auto">
                 <a 
                 data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}"
-                data-thumb="{{$thumb.RelPermalink | absURL}}" 
                 >
                     <img data-src="{{ $resized.RelPermalink | absURL }}" class="lazy" height="350" width="350">
                     </a> 
@@ -24,7 +23,7 @@
 <section class="section">
     <div class="container">
         <div class="columns">
-            <div class="column is-12">
+            <div class="column is-6 mx-auto">
                 {{ .Content }}
             </div>
         </div>

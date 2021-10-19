@@ -31,9 +31,9 @@ Foundry Workshop 1993 - 1996
 
 ### EMPLOYMENT / PROFESSIONAL ASSOCIATIONS  
 
-**Paint Creek Center for the Arts**   
-Education Coordinator 2000 – 2004
-Exhibitions Director 2004 to April 2014
+**Paint Creek Center for the Arts**    
+**Education Coordinator 2000 – 2004**  
+**Exhibitions Director 2004 to April 2014**
 Contemporary Arts Council/Art Detroit Now 2009 – 2012
 Detroit Artist’s Market Exhibition Advisory Committee - 1998 – 1999
 Detroit Institute of Arts/Friends of Modern Art Forum for Contemporary Art 1995 – 1997
