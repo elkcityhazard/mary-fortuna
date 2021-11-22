@@ -61,4 +61,5 @@ fields:
   label: Content
   description: Page or Post Content, Article, Section
 pages:
+- content/blog/mario-paints-the-castle.md
 - content/blog/mary-fortuna-is-a-boss.md
