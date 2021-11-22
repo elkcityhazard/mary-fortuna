@@ -60,3 +60,5 @@ fields:
     max: 
   label: Content
   description: Page or Post Content, Article, Section
+pages:
+- content/blog/mary-fortuna-is-a-boss.md
