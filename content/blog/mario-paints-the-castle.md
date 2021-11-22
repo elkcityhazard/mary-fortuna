@@ -2,7 +2,6 @@
 category = ""
 content = "lorem20"
 description = "And Princess Peach Helps Him"
-draft = true
 image_upload = "/uploads/amulet-2021.JPG"
 publishdate = 2021-11-22T22:00:00Z
 tags = ["blog"]
