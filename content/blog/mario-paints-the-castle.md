@@ -1,5 +1,7 @@
 +++
-category = ""
+author = "Andrew McCall"
+categories = ["blog post", " lifestyle", "art"]
+category = "blog/mario-paints-the-castle.md"
 content = ""
 description = "And Yoshi Helps"
 image_upload = "/uploads/apollo_butterfly_2016_mgkjwp.jpg"
