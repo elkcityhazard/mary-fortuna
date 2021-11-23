@@ -2,17 +2,19 @@
 <main>
     <section class="section columns mx-auto">
         {{ range .Pages }}
+        {{$image := .Params.image_upload }}
+
         <div class="card is-9 mx-auto">
             <div class="card-image">
                 <figure class="image is-4by3">
-                    <img src="{{- .Params.image_upload -}}" alt="{{- .Title -}}">
+                    <img src="" alt="{{- .Title -}}">
                 </figure>
             </div>
             <div class="card-content">
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="{{- .Params.image_upload -}}" alt="{{- .Title -}}">
+                            <img src="" alt="{{- .Title -}}">
                         </figure>
                     </div>
                     <div class="media-content">
