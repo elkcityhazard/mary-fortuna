@@ -24,7 +24,7 @@ fields:
   label: PublishDate
   description: Pick Today's Date To Publish right away.  Can pick future date to publish
     later
-- name: category
+- name: author
   type: select
   default: 
   config:
@@ -35,8 +35,8 @@ fields:
       section: blog
       file: 
       path: 
-  label: Category
-  description: Select a category for the page
+  label: Author
+  description: Select The Author
 - name: tags
   type: tag_list
   default: []
@@ -61,5 +61,10 @@ fields:
   description: Write a short description (Try and keep it less than 140 words) for
     your article or blog post
   label: Summary
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: Categories Here (dolls, collages, blog post, lifestyle, etc)
 pages:
 - content/blog/mario-paints-the-castle.md
