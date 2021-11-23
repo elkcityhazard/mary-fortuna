@@ -2,22 +2,20 @@
 <section class="section">
     <div class="container">
         <div class="columns is-flex-wrap-wrap is-justify-content-center">
-        {{ with .Resources.ByType "image" }}
-        {{ range . }}
-        {{ $image := .}}
-        {{ $resized := $image.Fill "270x270 jpeg" }}
-        {{ $fullsize := $image.Resize "900x webp jpeg" }}
-        {{ $thumb := $image.Resize "75x75 webp photo"}}
+            {{ with .Resources.ByType "image" }}
+            {{ range . }}
+            {{ $image := .}}
+            {{ $resized := $image.Fit "270x270 jpeg top" }}
+            {{ $fullsize := $image.Resize "900x webp jpeg top" }}
+            {{ $thumb := $image.Resize "75x75 webp photo top"}}
             <div class="column is-3 mx-auto">
-                <a 
-                data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}"
-                >
+                <a data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}">
                     <img data-src="{{ $resized.RelPermalink | absURL }}" class="lazy" height="350" width="350">
-                    </a> 
+                </a>
             </div>
-        {{ end }}
-        {{ end }}
-    </div>
+            {{ end }}
+            {{ end }}
+        </div>
     </div>
 </section>
 <section class="section">
