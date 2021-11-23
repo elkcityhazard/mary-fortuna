@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="{{ .Site.Params.author}}">
-    {{- if .IsHome -}} 
-    <meta name="description" content="{{- .Site.Params.description -}}">  
-    {{- else -}} 
+    {{- if .IsHome -}}
+    <meta name="description" content="{{- .Site.Params.description -}}">
+    {{- else -}}
     <meta name="description" content="{{- .Description -}}">
-     {{- end -}}
+    {{- end -}}
 
-     <!-- Schema.org Boilerplate -->
+    <!-- Schema.org Boilerplate -->
     <meta itemprop="name" content="{{- .Title -}}">
     <meta itemprop="description" content="{{- .Description -}}">
     {{ with .Params.img }}
@@ -20,7 +20,7 @@
     {{ else }}
     <meta itemprop="image" content="{{- .Site.Params.opengraphdefault -}}">
     {{- end -}}
-     <!-- Facebook Open Graph -->
+    <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="">
     <meta property="og:url" content="{{- .Permalink | absURL -}}">
     <meta property="og:type" content="website">
@@ -36,7 +36,7 @@
     <meta property="og:image:alt" content="{{- .Site.Params.imgAltDefault -}}">
     {{ end }}
     {{- with .Description -}}
-    <meta property="og:description" content="{{ .Description }}">
+    <meta property="og:description" content="{{ .Params.description }}">
     {{- else -}}
     <meta property="og:description" content="{{ .Site.Params.description }}">
     {{- end -}}
@@ -50,13 +50,13 @@
 
     <title>{{ if .IsHome }} {{ .Site.Title }} {{ else }} {{ .Title }} | {{ .Site.Title }} {{ end }}</title>
 
-    <!-- Preloads, Prefetches, etc--> 
-    <link rel="prefetch" href="https://unpkg.com" >
+    <!-- Preloads, Prefetches, etc-->
+    <link rel="prefetch" href="https://unpkg.com">
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://unpkg.com/normalize.css@8/normalize.css">
     <link rel="stylesheet" href="https://unpkg.com/bulma@0.9.3/css/bulma.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
     <link rel="stylesheet" href="https://unpkg.com/font-awesome@4.7/css/font-awesome.min.css">
 
