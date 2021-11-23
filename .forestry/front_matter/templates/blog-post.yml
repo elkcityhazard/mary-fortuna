@@ -26,13 +26,13 @@ fields:
     later
 - name: category
   type: select
-  default: []
+  default: 
   config:
     required: false
     options: []
     source:
-      type: simple
-      section: 
+      type: pages
+      section: blog
       file: 
       path: 
   label: Category
@@ -48,7 +48,7 @@ fields:
     maxSize: 
   label: Image Upload
   description: 'Upload an image '
-- name: content
+- name: summary
   type: textarea
   default: ''
   config:
@@ -58,7 +58,8 @@ fields:
       format: markdown
     min: 
     max: 
-  label: Content
-  description: Page or Post Content, Article, Section
+  description: Write a short description (Try and keep it less than 140 words) for
+    your article or blog post
+  label: Summary
 pages:
 - content/blog/mario-paints-the-castle.md
