@@ -36,7 +36,7 @@
     <meta property="og:image:alt" content="{{- .Site.Params.imgAltDefault -}}">
     {{ end }}
     {{- with .Description -}}
-    <meta property="og:description" content="{{ .Description }}">
+    <meta property="og:description" content="{{ .Params.description }}">
     {{- else -}}
     <meta property="og:description" content="{{ .Site.Params.description }}">
     {{- end -}}
