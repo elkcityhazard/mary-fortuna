@@ -1,170 +1,166 @@
-@import './_mixins.scss';
+@import "./_mixins.scss";
 
 /*************
 **Typography**
 **************/
 
 h1 {
-    font-size: 3.5rem;
+  font-size: 3.5rem;
 }
 
 h2 {
-    font-size: 2.75rem;
+  font-size: 2.75rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 a {
-    @include transition;
+  @include transition;
 }
 
 p {
-    margin: 1rem auto;
+  margin: 1rem auto;
 }
-
-
-
-
-
-
 
 /*****************
 **General Styles**
 ******************/
 
 img {
-    height: auto;
-    max-width: 100%;
+  height: auto;
+  max-width: 100%;
 }
 
 img.lazy {
-    @include transition;
-    opacity: 0;
+  @include transition;
+  opacity: 0;
 }
 
 ul {
-    margin: 1rem auto;
-    max-width: 60ch;
+  margin: 1rem auto;
+  max-width: 60ch;
 }
 
 .social-icon {
+  @include transition;
+  align-items: center;
+  border-radius: 50%;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  width: 50px;
+  .fa {
     @include transition;
-    align-items: center;
-    border-radius: 50%;
-    display: flex;
-    height: 50px;
-    justify-content: center;
-    width: 50px;
-    .fa {
-        @include transition;
-        color: #fff;
-        &:hover {
-            color: #666;
-        }
-    }
+    color: #fff;
     &:hover {
-        background-color: #e6e6e6 !important;
-        .fa {
-            color: #333;
-        }
+      color: #666;
     }
+  }
+  &:hover {
+    background-color: #e6e6e6 !important;
+    .fa {
+      color: #333;
+    }
+  }
 }
 
 header {
-    p {
-        margin: 0;
-    }
+  p {
+    margin: 0;
+  }
 }
 
 .section {
-    margin: auto; 
-    h1, 
-    h2, 
-    h3, 
-    h4, 
-    h5, 
-    h6 {
-        text-align: center;
-    }
+  margin: auto;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-align: center;
+  }
 }
 
-
-
-
 /**************************
-**Custom Navigation Styes**
+**Custom Navigation Styles**
 ***************************/
 
 #mainNavBar {
-    transition: all 500ms ease;
-    -webkit-transition: all 500ms ease;
-    -moz-transition: all 500ms ease;
-    opacity: 0;
+  transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  opacity: 0;
 }
 
 @media screen and (min-width: 960px) {
-    #mainNavBar {
-        opacity: 1;
-    }
+  #mainNavBar {
+    opacity: 1;
+  }
 }
-
-
 
 /***********************
 **Custom Swiper Styles**
 ************************/
 
-    .swiper-lazy {
-        max-height: 75vh;
-        object-fit: contain;
-    }
-    
+.swiper-lazy {
+  max-height: 75vh;
+  object-fit: contain;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #000;
+  opacity: 0;
+  transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+}
+
+.swiper-button-prev {
+  transform: translateX(-100%);
+  -webkit-transform: translateX(-100%);
+  -moz-transform: translateX(-100%);
+}
+
+.swiper-button-next {
+  transform: translateX(100%);
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+}
+
+.swiper {
+  min-width: 300px;
+  max-width: 360px;
+  &:hover {
     .swiper-button-prev,
     .swiper-button-next {
-        color: #000;
-        opacity: 0;
-        transition: all 500ms ease;
-        -webkit-transition: all 500ms ease;
-        -moz-transition: all 500ms ease;
+      opacity: 1;
+      transform: translateX(0%);
+      -webkit-transform: translateX(0%);
+      -moz-transform: translateX(0%);
     }
-    
-    .swiper-button-prev {
-        transform: translateX(-100%);
-        -webkit-transform: translateX(-100%);
-        -moz-transform: translateX(-100%);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .swiper {
+    max-width: 600px;
+  }
+}
+
+// Blog Card Styles
+
+.list-card {
+  .taxonomy-button {
+    background: transparent;
+    border-radius: 1.5rem;
+    -webkit-border-radius: 1.5rem;
+    -moz-border-radus: 1.5rem;
+    &:hover {
+      border-color: orange;
     }
-    
-    .swiper-button-next {
-        transform: translateX(100%);
-        -webkit-transform: translateX(100%);
-        -moz-transform: translateX(100%);
-    }
-    
-    .swiper {
-        min-width: 300px;
-        max-width: 360px;
-        &:hover {
-            .swiper-button-prev,
-            .swiper-button-next {
-                opacity: 1;
-                transform: translateX(0%);
-                -webkit-transform: translateX(0%);
-                -moz-transform: translateX(0%);
-            }
-        }
-    }
-
-    @media screen and (min-width: 1200px) {
-        .swiper {
-            max-width: 600px;
-        }
-    }
-
-
-
-
-
-
-
+  }
+}

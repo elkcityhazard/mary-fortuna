@@ -1,7 +1,6 @@
 +++
 author = "Andrew McCall"
 categories = ["blog post", " lifestyle", "art"]
-category = "blog/mario-paints-the-castle.md"
 content = ""
 description = "And Yoshi Helps"
 image_upload = "/uploads/apollo_butterfly_2016_mgkjwp.jpg"
@@ -11,6 +10,7 @@ tags = ["news"]
 title = "Mario Paints The Castle"
 
 +++
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu augue ut lectus arcu bibendum at varius. Duis ut diam quam nulla porttitor massa id neque aliquam. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Eget egestas purus viverra accumsan in nisl nisi. Pretium fusce id velit ut tortor. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Lectus mauris ultrices eros in cursus. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.
 
 Pharetra magna ac placerat vestibulum lectus. Sed viverra ipsum nunc aliquet. Habitasse platea dictumst vestibulum rhoncus est. Id velit ut tortor pretium viverra suspendisse potenti. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Habitant morbi tristique senectus et netus et malesuada. Et ligula ullamcorper malesuada proin libero nunc consequat. Sit amet aliquam id diam maecenas ultricies mi eget. Iaculis at erat pellentesque adipiscing commodo. Molestie nunc non blandit massa enim nec. Sed enim ut sem viverra aliquet eget sit amet. Lorem dolor sed viverra ipsum nunc. Etiam tempor orci eu lobortis elementum nibh tellus molestie. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Magna etiam tempor orci eu lobortis elementum nibh. Aliquam vestibulum morbi blandit cursus risus at ultrices. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget.

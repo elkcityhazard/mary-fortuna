@@ -2,7 +2,8 @@
 <main>
     <section class="section columns mx-auto">
         {{ range .Pages }}
-        <div class="card column is-3 mx-auto" data-aos="fade-up" data-aos-duration="1250" data-aos-delay="150">
+        <div class="card column is-3 mx-auto list-card" data-aos="fade-up" data-aos-duration="1250"
+            data-aos-delay="150">
             <div class="card-image">
                 <figure class="image is-3by3">
                     {{ with .Params.image_upload }}
@@ -32,13 +33,24 @@
                                 title="{{ .Title}}">{{ .Title }}</a></h2>
                         <p class="title is-4">{{.Params.author}}</p>
                         <p class="subtitle is-6">@mary.fortuna</p>
-                        {{ with .GetTerms "category" }}
-                        <a href="{{ .Permalink | absURL}}" title={{ .Title }}>{{ .LinkTitle}}</a>
-                        {{ end}}
+                        <div class="is-flex is-align-items-center is-flex-wrap-wrap">
+                            <small class="pr-2">Categories: </small>
+                            {{ range (.GetTerms "categories") }}
+                            <a href="{{- .Permalink -}}" class="taxonomy-button mx-1" title="{{- .LinkTitle -}}">{{-
+                                .LinkTitle -}}</a>
+                            {{ end}}
+                        </div>
+                        <div class="is-flex is-align-items-center is-flex-wrap-wrap">
+                            <small class="pr-2">Tags: </small>
+                            {{ range (.GetTerms "tags") }}
+                            <a href="{{- .Permalink -}}" class="taxonomy-button mx-1" title="{{- .LinkTitle -}}">{{-
+                                .LinkTitle -}}</a>
+                            {{ end}}
+                        </div>
                     </div>
                 </div>
 
-                <div class="content">
+                <div class=" content">
                     <p>{{- .Params.summary -}}</p>
                     <a href="{{.Permalink}}">{{- .Title -}}</a>
                     <br>
