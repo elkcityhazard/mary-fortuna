@@ -29,9 +29,11 @@ fields:
   default: 
   config:
     required: false
-    options: []
+    options:
+    - Mary Fortuna
+    - Andrew McCall
     source:
-      type: pages
+      type: simple
       section: blog
       file: 
       path: 
