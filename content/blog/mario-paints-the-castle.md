@@ -4,6 +4,7 @@ content = ""
 description = "And Yoshi Helps"
 image_upload = "/uploads/apollo_butterfly_2016_mgkjwp.jpg"
 publishdate = 2021-11-22T05:00:00Z
+summary = "This is a simple summary to demonstrate how they work.  We should try to keep them below 50 characters."
 tags = ["news"]
 title = "Mario Paints The Castle"
 
