@@ -1,4 +1,65 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Page or Post Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: Meta Description (for search engines should be 160 characters or less)
+- name: publishdate
+  type: datetime
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: PublishDate
+  description: Pick Today's Date To Publish right away.  Can pick future date to publish
+    later
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Select a category for the page
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Enter tags list here
+- name: image_upload
+  type: file
+  config:
+    maxSize: 
+  label: Image Upload
+  description: 'Upload an image '
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+    min: 
+    max: 
+  label: Content
+  description: Page or Post Content, Article, Section
+pages:
+- content/blog/mario-paints-the-castle.md
+- content/blog/mary-fortuna-is-a-boss.md
