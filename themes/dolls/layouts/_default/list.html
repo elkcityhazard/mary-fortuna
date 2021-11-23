@@ -2,33 +2,43 @@
 <main>
     <section class="section columns mx-auto">
         {{ range .Pages }}
-        {{$image := .Params.image_upload }}
-
-        <div class="card is-9 mx-auto">
+        <div class="card column is-3 mx-auto" data-aos="fade-up" data-aos-duration="1250" data-aos-delay="150">
             <div class="card-image">
                 <figure class="image is-4by3">
-                    <img src="" alt="{{- .Title -}}">
+                    {{ with .Params.image_upload }}
+                    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix
+                    "/uploads/" .
+                    )}}
+                    {{ $resized := $imageResource.Fill "300x300 top"}}
+                    <img src="{{ $resized.RelPermalink }}" />
+                    {{ end }}
                 </figure>
             </div>
             <div class="card-content">
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="" alt="{{- .Title -}}">
+                            {{ with .Params.image_upload }}
+                            {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch
+                            (strings.TrimPrefix "/uploads/" .
+                            )}}
+                            {{ $resized := $imageResource.Fill "48x48 top" }}
+                            <img src="{{ $resized.RelPermalink }}" />
+                            {{ end }}
                         </figure>
                     </div>
                     <div class="media-content">
+                        <h2 class="title has-text-left is-4 pl-0">{{ .Title }}</h2>
                         <p class="title is-4">{{.Params.author}}</p>
-                        <p class="subtitle is-6">@</p>
+                        <p class="subtitle is-6">@mary.fortuna</p>
                     </div>
                 </div>
 
                 <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                    <p>{{- .Params.summary -}}</p>
                     <a href="{{.Permalink}}">{{- .Title -}}</a>
                     <br>
-                    <time datetime="2016-1-1">{{.Date.Format "2006-01-02"}} </time>
+                    <strong>Published: </strong><time datetime="2016-1-1">{{.Date.Format "2006-01-02"}} </time>
                 </div>
             </div>
         </div>
