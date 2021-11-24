@@ -170,4 +170,8 @@ header {
     display: grid;
     grid-auto-rows: 10px;
     grid-auto-flow: dense;
+    .grid-item {
+        height: auto !important;
+        width: auto !important;
+    }
 }
