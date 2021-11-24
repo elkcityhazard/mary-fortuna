@@ -8,7 +8,7 @@
             {{ $resized := $image.Fit "270x270 jpeg top" }}
             {{ $fullsize := $image.Resize "900x webp jpeg top" }}
             {{ $thumb := $image.Resize "75x75 webp photo top"}}
-            <div class="column is-3 mx-auto">
+            <div class="column is-3 mx-auto grid-item">
                 <a data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}">
                     <img data-src="{{ $resized.RelPermalink | absURL }}" class="lazy" height="350" width="350">
                 </a>

@@ -33,14 +33,16 @@
                 </div>
                 <hr />
                 <div class="is-flex is-align-items-center is-flex-wrap-wrap">
+                    {{ if (.GetTerms "categories") }}
                     <small class="pr-2">Categories: </small>
                     {{ range (.GetTerms "categories") }}
                     <a href="{{.Permalink }}" class="taxonomy-button mx-1" title="{{ .LinkTitle }}">{{- .LinkTitle -}}</a>
                     {{ end}}
+                    {{ end }}
                 </div>
                 <div class="is-flex is-align-items-center is-flex-wrap-wrap">
-                    <small class="pr-2">Tags: </small>
                     {{ if (.GetTerms "tags" )}}
+                    <small class="pr-2">Tags: </small>
                     {{ range (.GetTerms "tags" ) }}
                     <a href="{{- .Permalink -}}" class="taxonomy-button mx-1" title="{{- .LinkTitle -}}">{{- .LinkTitle -}}</a>
                     {{ end}}
