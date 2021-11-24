@@ -7,9 +7,7 @@
             <div class="card-image">
                 <figure class="image is-3by3">
                     {{ with .Params.image_upload }}
-                    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix
-                    "/uploads/" .
-                    )}}
+                    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . )}}
                     {{ $resized := $imageResource.Fill "250x250 top"}}
                     <img src="{{ $resized.RelPermalink }}" />
                     {{ end }}
