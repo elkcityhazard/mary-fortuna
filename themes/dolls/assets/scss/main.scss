@@ -164,3 +164,9 @@ header {
     }
   }
 }
+
+
+.grid-container {
+    display: flex;
+    grid-auto-rows: 10px;
+}
