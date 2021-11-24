@@ -167,6 +167,10 @@ header {
 
 
 .grid-container {
-    display: flex;
+    display: grid;
     grid-auto-rows: 10px;
+    grid-auto-flow: dense;
+    height: 100%;
+    width: 100%;
+    
 }
