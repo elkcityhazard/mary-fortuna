@@ -70,3 +70,4 @@ fields:
   description: Categories Here (dolls, collages, blog post, lifestyle, etc)
 pages:
 - content/blog/mario-paints-the-castle.md
+- content/gallery/textiles/index.md
