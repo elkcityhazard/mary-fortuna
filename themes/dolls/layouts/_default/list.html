@@ -2,14 +2,17 @@
 <main>
     <section class="section columns is-flex-wrap-wrap mx-auto">
         {{ range .Pages }}
-        <div class="card">
-            <header class="card-header">
-                <h2>{{ .Title }}</h2>
-            </header>
-            <div class="card-content">
-                <p class="content">
-                    {{ .Description }}
-                </p>
+        <div class="card column is-3 mb-3 mx-auto" {{- with .Params.image_upload -}}style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ end }}>
+            <div class="inner-wrapper p-3">
+                <header class="card-header has-text-centered">
+                    <h2 class="card-header-title has-text-white"><a href="{{ .RelPermalink | absURL}}" class="has-text-centered has-text-white mx-auto"  title="{{ .Title }}">{{ .Title }}</a></h2>
+                </header>
+                <div class="card-content has-text-centered">
+                    <p class="content">
+                        {{ .Description }}
+                    </p>
+                    <a href="{{ .RelPermalink | absURL}}" class="button is-large is-outlined is-rounded is-hovered is-focused is-ghost is-fullwidth card-button"  title="{{ .Title }}">{{ .Title }}</a>
+                </div>
             </div>
         </div>
         {{ end }}

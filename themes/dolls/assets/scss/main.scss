@@ -153,14 +153,27 @@ header {
 
 // Blog Card Styles
 
-.list-card {
-  .taxonomy-button {
-    background: transparent;
-    border-radius: 1.5rem;
-    -webkit-border-radius: 1.5rem;
-    -moz-border-radus: 1.5rem;
+.card {
+  min-height: 450px;
+  .inner-wrapper {
+    @include transition;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    height: 100%;
+    width: 100%;
     &:hover {
-      border-color: orange;
+      background: rgba(0, 0, 0, 0);
+    }
+  }
+  .card-button {
+    @include transition;
+    border-color: #fff !important;
+    color: #fff !important;
+    overflow: hidden;
+    text-decoration: none !important;
+    &:hover {
+      border-color: orange !important;
+      outline-color: orange !important;
     }
   }
 }
