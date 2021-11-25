@@ -1,8 +1,8 @@
 {{ define "main" }}
 <main>
-    <section class="section columns is-flex-wrap-wrap mx-auto">
+    <section class="section columns is-flex-wrap-wrap is-justify-content-center mx-3">
         {{ range .Pages }}
-        <div class="card column is-3 mb-3 mx-auto" {{- with .Params.image_upload -}}style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ end }}>
+        <div class="card column mb-3 mx-2" {{- with .Params.image_upload -}}style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ end }}>
             <div class="inner-wrapper p-3">
                 <header class="card-header has-text-centered">
                     <h2 class="card-header-title has-text-white"><a href="{{ .RelPermalink | absURL}}" class="has-text-centered has-text-white mx-auto"  title="{{ .Title }}">{{ .Title }}</a></h2>
