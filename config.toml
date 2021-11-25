@@ -60,6 +60,12 @@ weight = -100
 ## Gallery Children
 
 [[menu.main]]
+identifier = 'masks'
+name = 'Masks'
+url = '/gallery/masks'
+parent = 'gallery'
+
+[[menu.main]]
 identifier = 'animals-and-insects'
 name = 'Animals & Insects'
 url = '/gallery/animals-and-insects'
@@ -71,21 +77,21 @@ identifier = 'collages'
 name = 'Collages'
 url = '/gallery/collages'
 parent = 'gallery'
-weight = -210
+weight = -200
 
 [[menu.main]]
 identifier = 'commissions-and-kids-drawings'
 name = "Commissions & Kid's Drawings"
 url = '/gallery/commissions-and-kids-drawings'
 parent = 'gallery'
-weight = -210
+weight = -190
 
 [[menu.main]]
 identifier = 'dolls'
 name = 'Dolls'
 url = '/gallery/dolls'
 parent = 'gallery'
-weight = -210
+weight = -180
 
 [[menu.main]]
 identifier = 'felt-and-fabric-dolls'
@@ -100,4 +106,6 @@ name = 'Leather Dolls'
 url = '/gallery/dolls/leather-dolls'
 parent = 'dolls'
 weight = -210
+
+
 

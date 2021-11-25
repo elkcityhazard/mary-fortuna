@@ -168,10 +168,13 @@ header {
 
 .grid-container {
     display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+    grid-auto-flow: row dense;
+    grid-gap: 0px 6px;
     grid-auto-rows: 10px;
-    grid-auto-flow: dense;
+    margin: auto;
     .grid-item {
-        height: auto !important;
-        width: auto !important;
+        margin: auto;
     }
 }
+
