@@ -64,6 +64,14 @@ identifier = 'masks'
 name = 'Masks'
 url = '/gallery/masks'
 parent = 'gallery'
+weight = -220
+
+[[menu.main]]
+identifier = 'mobiles-and-hanging-sculptures'
+name = 'Mobiles & Hanging Sculptures'
+url = '/gallery/mobiles-and-hanging-sculptures'
+parent = 'gallery'
+weight = -230
 
 [[menu.main]]
 identifier = 'animals-and-insects'
@@ -76,6 +84,34 @@ weight = -210
 identifier = 'collages'
 name = 'Collages'
 url = '/gallery/collages'
+parent = 'gallery'
+weight = -200
+
+[[menu.main]]
+identifier = 'paintings'
+name = 'Paintings'
+url = '/gallery/paintings'
+parent = 'gallery'
+weight = -200
+
+[[menu.main]]
+identifier = 'papa-legba'
+name = 'Papa Legba'
+url = '/gallery/papa-legba'
+parent = 'gallery'
+weight = -200
+
+[[menu.main]]
+identifier = 'shadow-puppets'
+name = 'Shadow Puppets'
+url = '/gallery/shadow-puppets'
+parent = 'gallery'
+weight = -200
+
+[[menu.main]]
+identifier = 'textiles'
+name = 'Textiles'
+url = '/gallery/textiles'
 parent = 'gallery'
 weight = -200
 
@@ -104,6 +140,13 @@ weight = -210
 identifier = 'leather-dolls'
 name = 'Leather Dolls'
 url = '/gallery/dolls/leather-dolls'
+parent = 'dolls'
+weight = -210
+
+[[menu.main]]
+identifier = 'nesting-dolls'
+name = 'Nesting Dolls'
+url = '/gallery/dolls/nesting-dolls'
 parent = 'dolls'
 weight = -210
 

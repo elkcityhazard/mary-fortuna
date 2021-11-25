@@ -1,15 +1,21 @@
 {{ define "main" }}
 <main>
-    <section class="section columns mx-auto">
+    <section class="section columns is-flex-wrap-wrap mx-auto">
         {{ range .Pages }}
-        <div class="card column is-3 mx-auto list-card" data-aos="fade-up" data-aos-duration="1250"
+        <div class="card column is-3 mx-auto my-4 list-card" data-aos="fade-up" data-aos-duration="1250"
             data-aos-delay="150">
             <div class="card-image">
                 <figure class="image is-3by3">
                     {{ with .Params.image_upload }}
                     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . )}}
-                    {{ $resized := $imageResource.Fill "250x250 top"}}
-                    <img src="{{ $resized.RelPermalink }}" />
+                    {{ $resized := $imageResource.Fill "250x250 q100 top"}}
+                    <img src="{{ $resized.RelPermalink }}" alt="section image" />
+                    {{ else }}
+                    {{ if .Resources.ByType "image" }}
+                    {{ range first 1 (.Resources.ByType "image" )}}
+                    <img src="{{ .Permalink }}" alt="section header">
+                    {{ end }}
+                    {{ end }}
                     {{ end }}
                 </figure>
             </div>
@@ -46,8 +52,6 @@
                 </div>
             </div>
         </div>
-        <li>
-        </li>
         {{ end }}
     </section>
 </main>
