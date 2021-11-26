@@ -157,9 +157,12 @@ header {
   min-height: 450px;
   .inner-wrapper {
     @include transition;
+    border-radius: 4px;
     background: rgba(0, 0, 0, 0.75);
     color: #fff;
+    display: grid;
     height: 100%;
+    place-items: center;
     width: 100%;
     &:hover {
       background: rgba(0, 0, 0, 0);
