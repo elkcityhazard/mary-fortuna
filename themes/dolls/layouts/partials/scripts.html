@@ -1,6 +1,7 @@
 <script defer id="swiper" src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 <script defer id="aos" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script defer src="https://unpkg.com/fslightbox@3.3.0-2/index.js"></script>
+<script type="text/javascript" src="https://0e047bb7fb540e047b19ff9.zapwp.com/generate_js:true" defer></script>
 
 <script>
   //  wait for scripts to load then run init function
@@ -39,65 +40,65 @@
 
   document.addEventListener('DOMContentLoaded', () => {
 
-// Get all "navbar-burger" elements
-const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+    // Get all "navbar-burger" elements
+    const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
-// Check if there are any navbar burgers
-if ($navbarBurgers.length > 0) {
+    // Check if there are any navbar burgers
+    if ($navbarBurgers.length > 0) {
 
-  // Add a click event on each of them
-  $navbarBurgers.forEach( el => {
-    el.addEventListener('click', () => {
+      // Add a click event on each of them
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
 
-      // Get the target from the "data-target" attribute
-      const target = el.dataset.target;
-      const $target = document.getElementById(target);
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
 
-      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-      el.classList.toggle('is-active');
-      $target.classList.toggle('is-active');
-      $target.classList.contains('is-active') ? setTimeout(() => {$target.style.opacity = 1}, 50) : $target.style.opacity = 0;
-    });
-  });
-}
-
-});
-
-let options = {
-  rootMargin: '0px 0px 0px 0px',
-  threshold: [1.0, 1.0, 1.0, 1.0]
-}
-
-let callback = (entries, observer) => {
-  entries.forEach(entry => {
-    if (entry.intersectionRatio > 0) {
-      entry.target.src = entry.target.getAttribute('data-src');
-      entry.target.onload = () => {
-        setTimeout(() => {
-          entry.target.style.opacity = 1;
-        }, 200)
-      }
-      observer.unobserve(entry.target);
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+          $target.classList.contains('is-active') ? setTimeout(() => { $target.style.opacity = 1 }, 50) : $target.style.opacity = 0;
+        });
+      });
     }
-    // Each entry describes an intersection change for one observed
-    // target element:
-    //   entry.boundingClientRect
-    //   entry.intersectionRatio
-    //   entry.intersectionRect
-    //   entry.isIntersecting
-    //   entry.rootBounds
-    //   entry.target
-    //   entry.time
+
   });
-};
+
+  let options = {
+    rootMargin: '0px 0px 0px 0px',
+    threshold: [1.0, 1.0, 1.0, 1.0]
+  }
+
+  let callback = (entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.intersectionRatio > 0) {
+        entry.target.src = entry.target.getAttribute('data-src');
+        entry.target.onload = () => {
+          setTimeout(() => {
+            entry.target.style.opacity = 1;
+          }, 200)
+        }
+        observer.unobserve(entry.target);
+      }
+      // Each entry describes an intersection change for one observed
+      // target element:
+      //   entry.boundingClientRect
+      //   entry.intersectionRatio
+      //   entry.intersectionRect
+      //   entry.isIntersecting
+      //   entry.rootBounds
+      //   entry.target
+      //   entry.time
+    });
+  };
 
 
-let observer = new IntersectionObserver(callback, options);
+  let observer = new IntersectionObserver(callback, options);
 
-let target = document.querySelectorAll('.lazy');
+  let target = document.querySelectorAll('.lazy');
 
-target.forEach((img) => {
-  observer.observe(img);
-})
+  target.forEach((img) => {
+    observer.observe(img);
+  })
 
 </script>

@@ -1,17 +1,16 @@
 ---
 title: Links
+layout: links
 ---
 
 Artist and gallery links are not listed in any particular order, I'm just adding them as they come to me. Just poke around and click, see what you find. There's bound to be something interesting.
 
-  
-
 ## Some Older Blogs
+
 [Mary Fortuna on blogspot](http://waitingformary.blogspot.com/)
 [The Slippery Weasel Society on blogspot](http://slipperyweaselsociety.blogspot.com/)
 
 ## Some Links To Reviews and Articles
-
 
 [Metro Arts Detroit](http://www.metroartsdetroit.com/#!__season-3/vstc8=show-308)
 [Artist Profile by Rosie Sharp on KnightArts Detroit](http://www.knightarts.org/community/detroit/artist-profile-hard-at-play-with-mary-fortuna#comment-342890)
@@ -128,5 +127,3 @@ Artist and gallery links are not listed in any particular order, I'm just adding
 [](http://www.heidelberg.org/)
 [](http://nekchand.com/)
 [](http://www.artprize.org/)
-
-
