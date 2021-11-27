@@ -1,11 +1,11 @@
 {{ define "main" }}
 <main>
-    <section class="section columns is-desktop is-flex-wrap-wrap mx-auto is-justify-content-center is-align-items-center has-text-centered">
+    <section class="section columns is-desktop is-flex-wrap-wrap mx-auto is-justify-content-space-evenly is-align-items-center has-text-centered">
         {{ range .Pages }}
-        <div class="card column is-12-mobile is-12-tablet is-5-desktop is-4-widescreen is-4-fullhd p-0 mb-3 mx-3" {{- with .Params.image_upload -}}style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ end }}>
+        <div class="card column is-12-mobile is-12-tablet is-6-desktop is-3-widescreen is-3-fullhd p-0 mb-3 mx-2" {{- with .Params.image_upload -}}style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ end }}>
             <div class="inner-wrapper container">
                 <header class="card-header has-text-centered">
-                    <h2 class="card-header-title has-text-white is-size-5-fullhd font-wrap"><a href="{{ .RelPermalink | absURL}}" class="has-text-centered has-text-white mx-auto"  title="{{ .Title }}">{{ .Title }}</a></h2>
+                    <h2 class="card-header-title has-text-white is-size-5 font-wrap"><a href="{{ .RelPermalink | absURL}}" class="has-text-centered has-text-white mx-auto"  title="{{ .Title }}">{{ .Title }}</a></h2>
                 </header>
                 <div class="card-content has-text-centered">
                     <a href="{{ .RelPermalink | absURL}}" class="button is-small is-outlined is-rounded is-hovered is-focused is-ghost is-size-5 card-button"  title="{{ .Title }}">{{ .Title }}</a>
@@ -18,4 +18,10 @@
         {{ end }}
     </section>
 </main>
+
+<script>
+    function getLink() {
+        
+    }
+</script>
 {{ end }}

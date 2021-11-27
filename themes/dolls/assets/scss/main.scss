@@ -157,6 +157,7 @@ header {
 .card {
   align-items: stretch;
   display: grid;
+  min-width: 400px;
   min-height: 450px;
   .inner-wrapper {
     @include transition;
