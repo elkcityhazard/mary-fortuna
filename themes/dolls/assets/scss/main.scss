@@ -166,9 +166,12 @@ header {
     display: grid;
     height: 100%;
     place-items: center;
+    max-width: 100% !important;
+    overflow: hidden;
     width: 100%;
     &:hover {
       background: rgba(0, 0, 0, 0);
+      border: 3px solid orange;
     }
   }
   .card-button {
@@ -177,6 +180,8 @@ header {
     color: #fff !important;
     overflow: hidden;
     text-decoration: none !important;
+    word-wrap: break-word;
+    max-width: 100%;
     &:hover {
       border-color: orange !important;
       outline-color: orange !important;
