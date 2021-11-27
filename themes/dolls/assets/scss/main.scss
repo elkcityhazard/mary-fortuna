@@ -207,3 +207,18 @@ header {
     }
 }
 
+
+// Waves
+.waves-container {
+  background: transparent;
+  position: relative;
+  .waves {
+    bottom: 0.90rem;
+    display: none;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+  }
+}
+
