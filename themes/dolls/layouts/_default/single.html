@@ -8,7 +8,7 @@
             {{ $resized := $image.Fit "275x350 webp q100" }}
             {{ $fullsize := $image.Resize "900x webp jpeg top" }}
             {{ $thumb := $image.Resize "75x75 webp photo top"}}
-            <div class="grid-item" data-aos="fade-up" data-aos-duration="1250" data-aos-delay="150">
+            <div class="grid-item mx-auto" data-aos="fade-up" data-aos-duration="1250" data-aos-delay="150">
                 <a data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}" >
                     <img data-src="{{ $resized.RelPermalink | absURL }}" class="lazy" width="350" height="350">
                 </a>
@@ -33,7 +33,7 @@ const gridItems = document.querySelectorAll('.grid-item')
 gridItems.forEach((item) => {
     const img = item.lastElementChild.lastElementChild
         img.addEventListener('load', (e) => {
-        const spans = Math.ceil(e.target.scrollHeight / 10 + 2)
+        const spans = Math.ceil(e.target.scrollHeight / 10 + 1)
         item.style.height = e.target.scrollHeight + 'px'
         item.style.gridRowEnd = `span ${spans}`
     })

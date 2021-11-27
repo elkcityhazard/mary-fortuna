@@ -33,7 +33,7 @@ weight = -160
 
 [[menu.main]]
 identifier = 'about'
-name = "About Mary Fortuna"
+name = "Resume"
 url = '/about/'
 weight = -180
 
