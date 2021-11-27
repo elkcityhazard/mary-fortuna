@@ -1,129 +1,133 @@
 ---
-title: Links
+title: "Links"
 layout: links
+description: "Mary Fortuna's resources page.  Links to older personal blogs, artist pages, and other articles of interest"
+summary: "Artist and gallery links are not listed in any particular order, I'm just adding them as they come to me. Just poke around and click, see what you find. There's bound to be something interesting."
+links: 
+  - 0:
+    title: "Some Older Blogs"
+    list:
+        0: "[Mary Fortuna on blogspot](http://waitingformary.blogspot.com/)" 
+        1: "[The Slippery Weasel Society on blogspot](http://slipperyweaselsociety.blogspot.com/)"
+  - 1: 
+    title: "Some Links To Reviews and Articles"
+    list:
+        0: "[Metro Arts Detroit](http://www.metroartsdetroit.com/#!__season-3/vstc8=show-308)"
+        1: "[All Dolled Up by Glen Mannisto, Detroit Metro Times](http://www.metrotimes.com/detroit/all-dolled-up/Content?oid=2185508)"
+  - 2:
+    title: "Some Artists I Love"
+    list:
+        0: "[Rusty Nail Studio ](http://rustynailstudio.blogspot.com/)"  
+        1: "[Andrei Rabodzeenko](http://www.rabodzeenko.com/)"
+        2: "[Michael McGillis](http://michaelmcgillis.com/)"
+        3: "[Andy Krieger](http://www.andykriegerartist.com/)"
+        4: "[Clinton Snider](http://clintonsnider.com/)"
+        5: "[Rocky Ford Studio - Matthew Hanna](http://rockyfordstudio.blogspot.com/)"
+        6: "[Kim Fay](http://kimfaystudio.com/)"
+        7: "[Carrie Morris](http://www.carriemorris.com/)"
+        8: "[Megan Major](http://www.meganmajor.com/)"
+        9: "[Amy Sacksteder](http://amysacksteder.com/)"
+        10: "[Gretchen Kramp](https://www.facebook.com/GretchenKrampCeramicTiles)"
+        11: "[Clea's Cave](http://cleascave.typepad.com/)"
+        12: "[Christine Hagedorn](https://artsy.net/artist/christine-hagedorn)"
+        13: "[Anne Fracassa](http://www.annefracassa.com/)"
+        14: "[Claudia Shepard](http://www.claudiashepard.com/)"
+        15: "[Jeanne Bieri](http://www.jeannebieri.com/)"
+        16: "[Carolyn Reed Barritt](http://carolynreedbarritt.com/)"
+        17: "[Sandra Cardew](https://www.facebook.com/sandra.cardew)"
+        18: "[Scott Northrup](http://scottnorthrup.com/home.html)"
+        19: "[Corinne Vermeulen](http://www.corinevermeulen.com/)"
+        20: "[Kottie Gaydos](http://www.kottie.gaydos.org/)"
+        21: "[Kyohei Abe](http://kyoheiabe.com/)"
+        22: "[Vagner Whitehead](http://www.vagnerwhitehead.com/) "
+        23: "[Lynne Avadenka](http://www.lynneavadenka.com/)"
+        24: "[Chido Johnson](http://chidox.com/)"
+        25: "[Teresa Petersen](http://www.teresapetersen.com/)"
+        26: "[Graem Whyte](http://graemwhyte.com/)"
+        27: "[Scott Hocking](http://scotthocking.com/)"
+        28: "[Abigail Murray](http://www.abigail-murray.com/)"
+        29: "[Megan Heeres](http://meganheeres.com/home.html)"
+        30: "[Ray Johnson](http://www.rayjohnsonestate.com/biography/)"
+        31: "[Nick Cave](http://nickcaveart.com/Main/Intro.html)"
+        32: "[Andrew Thompson](http://andrewhasartshow.wordpress.com/)"
+        33: "[Corrie Baldauf](http://corriebaldauf.com/home.html)"
+        34: "[Richard Lewis](http://www.kresgeartsindetroit.org/fellowships/past-fellows/2011-fellows/richard-lewis/)"
+        35: "[Amanda Thatch](http://www.amandathatch.com/)"
+        36: "[Anne Lemanski](http://annelemanski.com/home.html)"
+        37: "[Gilda Snowden](http://gildasnowden.com/home.html)"
+        38: "[Sarah Trahan](http://www.sarahtrahan.com/)"
+        39: "[Ed Fraga](http://www.kresgeartsindetroit.org/fellowships/past-fellows/2009-fellows/ed-fraga/)"
+        40: "[Peter Williams](http://www.udel.edu/art/people/faculty/people/williams.html) "
+        41: "[Tom Phardel](http://en.wikipedia.org/wiki/Tom_Phardel)"
+        42: "[Robert Sestok](http://robertsestok.wordpress.com/)"
+  - 3:
+    title: "Some Favorite Galleries & Museums"
+    list:
+        0: "[Detroit Institute of Arts](http://www.dia.org/)"   
+        1: "[MOCAD](http://www.mocadetroit.org/)"
+        2: "[Flint Institute of Arts](http://www.flintarts.org/)"
+        3: "[Museum of New Art](http://detroitmona.com/)"
+        4: "[Elaine Jacob Gallery](http://art.wayne.edu/jacob_gallery.php)"
+        5: "[CCS Center Galleries](http://www.collegeforcreativestudies.edu/community-outreach-and-engagement/center-galleries)"
+        6: "[Oakland University Art Gallery](http://www.ouartgallery.org/)"
+        7: "[Popp's Packing](http://www.poppspacking.org/)"
+        8: "[Public Pool](http://publicpool.tumblr.com/)"
+        9: "[Detroit Artists Market - DAM](http://www.detroitartistsmarket.org/) "
+        10: "[Birmingham Bloomfield Art Center](http://bbartcenter.org/) "
+        11: "[Butter Projects](http://www.butterprojects.info/)"
+        12: "[ReView: Contemporary](http://www.reviewcontemporary.com/)"
+        13: "[Paul Kotula Projects](http://www.paulkotula.com/)"
+        14: "[Whitdel Arts](http://www.whitdelarts.com/)"
+        15: "[Hatch Art](http://www.hatchart.org/)"
+        16: "[Detroit Center for Contemporary Photography - DCCP](http://www.detroitccp.org/)"
+        17: "[What Pipeline](http://whatpipeline.com/)"
+        18: "[Trinosophes](http://trinosophes.com/)"
+        19: "[Northville Art House](http://northvillearthouse.org/)"
+        20: "[Buckham Gallery](http://www.buckhamgallery.org/)"
+        21: "[9338 Campau](http://9338campau.com/)"
+        22: "[The N'namdi Center for Contemporary Art](http://nnamdicenter.org/)"
+        23: "[Red Bull House of Art](http://www.redbull.com/us/en/events/1331618729312/red-bull-house-of-art)"
+        24: "[Susanne Hillberry Gallery](http://www.susannehilberrygallery.com/)"
+        25: "[Inner State Gallery](http://innerstategallery.com/)"
+        26: "[John Michael Kohler Arts Center](http://www.jmkac.org/)"
+        27: "[Crooked Tree Arts Center](https://www.crookedtree.org/)"
+        28: "[Dennos Museum Center](http://www.dennosmuseum.org/)"
+        29: "[Blackbird Arts](http://www.blackbirdartstc.com/)"
+        30: "[Flatlanders](http://www.flatlandersculpture.com/)"
+        31: "[Toledo Museum of Art](http://www.toledomuseum.org/exhibitions/)"
+        32: "[University of Toledo Center for Visual Arts](http://www.utoledo.edu/comm-arts/art/galleries/index.html)"
+        33: "[Eastern Michigan University Art Gallery](http://art.emich.edu/pages/about-the-gallery-programs)"
+        34: "[Dearborn Community Arts Council](http://dcacarts.org/gallery/)"
+        35: "[Book Beat](http://www.thebookbeat.com/backroom/)"
+        36: "[The Butcher's Daughter](http://www.thebutchersdaughtergallery.com/The_Butchers_Daughter_Gallery/The_Butchers_Daughter.html)"
+        37: "[333 Midland - The Factory](https://www.facebook.com/333midland)"
+  - 4: 
+    title: "Some Other Blogs, Sites, & Projects Of Interest"
+    list:
+        0: "[Motown Review of Art - Vince Carducci](http://motownreviewofart.blogspot.com/)"
+        1: "[The Technophile Luddite](http://thetechnophileluddite.blogspot.com/)"
+        2: "[Art Detroit Now](http://artdetroitnow.com/)"
+        3: "[Kresge Arts In Detroit](http://www.kresgeartsindetroit.org/)"
+        4: "[Dlectricity](http://www.dlectricity.com/)"
+        5: "[The Pioneer Building](http://thepioneerbuilding.com/)"
+        6: "[Theatre Bizarre](http://theatrebizarre.com/)"
+        7: "[Artpack Services](http://www.artpack.com/)"
+        8: "[Signal Return](http://www.signalreturnpress.org/)"
+        9: "[Salt & Cedar](http://saltandcedar.com/)"
+        10: "[Ocelot Print Shop](http://ocelotprintshop.com/)"
+        11: "[Ponyride](http://www.ponyride.org/)"
+        12: "[Infinite Mile](http://www.infinitemiledetroit.com/)"
+        13: "[PuppetArt Detroit](http://www.puppetart.org/)"
+        14: "[The Hinterlands](http://thehinterlandsensemble.org/)"
+        15: "[Let's Talk About Love, Baby](http://letstalkaboutlovebaby.com/)"
+        16: "[Wire Car Cruise](http://wirecarcruise.com/)"
+        17: "[Recycle Here!](http://recyclehere.net/)"
+        18: "[Lincoln Street Art Park](https://www.facebook.com/pages/Lincoln-Street-Art-Park/179542518761761?sk=timeline)"
+        19: "[Dabl's African Bead Museum](http://mbad.org/)"
+        20: "[The Heidelberg Project](http://www.heidelberg.org/)"
+        21: "[Nek Chand](http://nekchand.com/)"
+        22: "[Artprize](http://www.artprize.org)"
+  
 ---
 
-Artist and gallery links are not listed in any particular order, I'm just adding them as they come to me. Just poke around and click, see what you find. There's bound to be something interesting.
 
-## Some Older Blogs
-
-[Mary Fortuna on blogspot](http://waitingformary.blogspot.com/)
-[The Slippery Weasel Society on blogspot](http://slipperyweaselsociety.blogspot.com/)
-
-## Some Links To Reviews and Articles
-
-[Metro Arts Detroit](http://www.metroartsdetroit.com/#!__season-3/vstc8=show-308)
-[Artist Profile by Rosie Sharp on KnightArts Detroit](http://www.knightarts.org/community/detroit/artist-profile-hard-at-play-with-mary-fortuna#comment-342890)
-[[All Dolled Up by Glen Mannisto, Detroit Metro Times](http://www.metrotimes.com/detroit/all-dolled-up/Content?oid=2185508)](http://www.metrotimes.com/detroit/all-dolled-up/Content?oid=2185508)
-[Metro Arts Detroit](http://www.detroitmona.com/Galerie_Haemmerle_Detroit.htm)
-[](http://rustynailstudio.blogspot.com/)
-[](http://www.rabodzeenko.com/)
-[](http://michaelmcgillis.com/)
-[](http://www.andykriegerartist.com/)
-[](http://clintonsnider.com/)
-[](http://rockyfordstudio.blogspot.com/)
-[](http://kimfaystudio.com/)
-[](http://www.carriemorris.com/)
-[](http://www.meganmajor.com/)
-[](http://amysacksteder.com/)
-[](https://www.facebook.com/GretchenKrampCeramicTiles)
-[](http://cleascave.typepad.com/)
-[](https://artsy.net/artist/christine-hagedorn)
-[](http://www.annefracassa.com/)
-[](http://www.claudiashepard.com/)
-[](http://www.jeannebieri.com/)
-[](http://carolynreedbarritt.com/)
-[](https://www.facebook.com/sandra.cardew)
-[](http://scottnorthrup.com/home.html)
-[](http://www.corinevermeulen.com/)
-[](http://www.kottie.gaydos.org/)
-[](http://kyoheiabe.com/)
-[](http://www.vagnerwhitehead.com/)
-[](http://www.mkarimipour.com/index.htm)
-[](http://www.lynneavadenka.com/)
-[](http://chidox.com/)
-[](http://www.teresapetersen.com/)
-[](http://graemwhyte.com/)
-[](http://scotthocking.com/)
-[](http://www.abigail-murray.com/)
-[](http://meganheeres.com/home.html)
-[](http://www.rayjohnsonestate.com/biography/)
-[](http://nickcaveart.com/Main/Intro.html)
-[](http://andrewhasartshow.wordpress.com/)
-[](http://corriebaldauf.com/home.html)
-[](http://www.kresgeartsindetroit.org/fellowships/past-fellows/2011-fellows/richard-lewis/)
-[](http://www.amandathatch.com/)
-[](http://annelemanski.com/home.html)
-[](http://gildasnowden.com/home.html)
-[](http://www.sarahtrahan.com/)
-[](http://www.kresgeartsindetroit.org/fellowships/past-fellows/2009-fellows/ed-fraga/)
-[](http://www.udel.edu/art/people/faculty/people/williams.html)
-[](http://www.paulkotula.com/artist/jim-chatelain/)
-[](http://en.wikipedia.org/wiki/Tom_Phardel)
-[](http://www.reviewcontemporary.com/artists/sharon-que/)
-[](http://robertsestok.wordpress.com/)
-[](http://www.dia.org/)
-[](http://www.cranbrookart.edu/museum/)
-[](http://www.mocadetroit.org/)
-[](http://www.flintarts.org/)
-[](http://detroitmona.com/)
-[](http://art.wayne.edu/jacob_gallery.php)
-[](http://www.collegeforcreativestudies.edu/community-outreach-and-engagement/center-galleries)
-[](http://www.ouartgallery.org/)
-[](http://www.poppspacking.org/)
-[](http://publicpool.tumblr.com/)
-[](http://www.detroitartistsmarket.org/)
-[](http://www.scarabclub.org/)
-[](http://bbartcenter.org/)
-[](http://www.passengerdetroit.org/)
-[](http://www.butterprojects.info/)
-[](http://www.reviewcontemporary.com/)
-[](http://www.paulkotula.com/)
-[](http://www.whitdelarts.com/)
-[](http://www.hatchart.org/)
-[](http://www.detroitccp.org/)
-[](http://whatpipeline.com/)
-[](http://trinosophes.com/)
-[](http://northvillearthouse.org/)
-[](http://www.buckhamgallery.org/)
-[](http://9338campau.com/)
-[](http://nnamdicenter.org/)
-[](http://www.redbull.com/us/en/events/1331618729312/red-bull-house-of-art)
-[](http://www.susannehilberrygallery.com/)
-[](http://innerstategallery.com/)
-[](http://www.jmkac.org/)
-[](https://www.crookedtree.org/)
-[](http://www.dennosmuseum.org/)
-[](http://www.blackbirdartstc.com/)
-[](http://www.flatlandersculpture.com/)
-[](http://www.toledomuseum.org/exhibitions/)
-[](http://www.utoledo.edu/comm-arts/art/galleries/index.html)
-[](http://art.emich.edu/pages/about-the-gallery-programs)
-[](http://dcacarts.org/gallery/)
-[](http://www.thebookbeat.com/backroom/)
-[](http://www.thebutchersdaughtergallery.com/The_Butchers_Daughter_Gallery/The_Butchers_Daughter.html)
-[](https://www.facebook.com/333midland)
-[](http://motownreviewofart.blogspot.com/)
-[](http://thetechnophileluddite.blogspot.com/)
-[](http://artdetroitnow.com/)
-[](http://www.kresgeartsindetroit.org/)
-[](http://www.dlectricity.com/)
-[](http://thepioneerbuilding.com/)
-[](http://theatrebizarre.com/)
-[](http://michiganaidscoalition.org/events-2/artworks_detroit/)
-[](http://www.artpack.com/)
-[](http://www.signalreturnpress.org/)
-[](http://saltandcedar.com/)
-[](http://ocelotprintshop.com/)
-[](http://www.ponyride.org/)
-[](http://www.infinitemiledetroit.com/)
-[](http://www.puppetart.org/)
-[](http://thehinterlandsensemble.org/)
-[](http://letstalkaboutlovebaby.com/)
-[](http://wirecarcruise.com/)
-[](http://recyclehere.net/)
-[](https://www.facebook.com/pages/Lincoln-Street-Art-Park/179542518761761?sk=timeline)
-[](http://mbad.org/)
-[](http://www.heidelberg.org/)
-[](http://nekchand.com/)
-[](http://www.artprize.org/)
