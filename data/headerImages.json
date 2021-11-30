@@ -2,8 +2,8 @@
     "data" : [
         {
             "id" : 0,
-            "src" : "/gallery/dolls/leather-dolls/images/Babe_the_Blue_Ox_2016_rm8exs.jpg",
-            "alt" : "Babe The Blue - 2016"
+            "src" : "/gallery/paintings/images/Full Moon Crows 2016.JPG",
+            "alt" : "Full Moon Crows - 2016"
         },
         {
             "id" : 1,
@@ -12,8 +12,8 @@
         },
         {
             "id" : 2,
-            "src" : "/gallery/dolls/leather-dolls/images/Bluebird_of_Happiness_2016_eaoz80.jpg",
-            "alt" : "Bluebird Of Happiness - 2016"
+            "src" : "/gallery/textiles/images/Dark Snake 2016.jpg",
+            "alt" : "Dark Snake - 2016"
         }
     ]
 }
