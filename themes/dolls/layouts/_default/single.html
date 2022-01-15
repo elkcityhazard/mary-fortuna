@@ -44,10 +44,21 @@ gridItems.forEach((item) => {
 </script> 
 
 
-{{ with  .Site.Data.imageData.animalsAndInstincts }}
-{{ range . }}
+{{ with  .Site.Data.imageData.dolls }}
+{{ .title }}
+{{ range .collection }}
+{{ with .title }}
+    {{ . }}
+{{ end }}
+{{ range .collection }}
 <figure>
-    <img data-src="./{{ . | absURL }}" alt="{{ .title }}">
+    <img data-src="{{ .src | absURL}}" alt="{{ .title }}" loading="lazy" class="lazy" height="300" width="300" />
+    <figcaption>{{ .title }} - {{ .year }} </figcaption>
+</figure>
+    {{ . }}
+{{ end }}
+<figure>
+    <img data-src="{{ .src | absURL }}" alt="{{ .title }}" class="lazy" height="300" width="300">
     <figcaption>{{ .title }} - {{ .year }}</figcaption>
 </figure>
 {{ end }}

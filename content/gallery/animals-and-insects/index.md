@@ -1,5 +1,5 @@
 ---
-title: Animals & Insects
+title: Animals & Instincts
 date: '2021-11-25'
 tags:
 - Animals

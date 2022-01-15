@@ -46,7 +46,7 @@
 			},
 			{
 				"id": 8,
-				"title": "Collection Of Insects FOr MOCAD",
+				"title": "Collection Of Insects For MOCAD",
 				"year": "2012",
 				"src": "/images/animals-and-instincts/Collection_of_Insects_for_MOCAD_2012_lzqtbg.jpg"
 			},
@@ -500,305 +500,308 @@
 			}
 		]
 	},
-	"dolls": [
-		{
-			"title": "Felt and Fabric",
-			"collection": [
-				{
-					"id": 82,
-					"title": "Afronaut After A Painting By Peter Williams In Loving Memory",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Afronaut_after_a_painting_by_Peter_Williams_In_Loving_Memory_2021_fbki37.jpg"
-				},
-				{
-					"id": 83,
-					"title": "Ancestors - Crone Forest Girl Valkyrie",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Ancestors_-_Crone_Forest_Girl_Valkyrie_2019_whnari.jpg"
-				},
-				{
-					"id": 84,
-					"title": "Ancestors - Medusa Rabbit Girl Bastet",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Ancestors_-_Medusa_Rabbit_Girl_Bastet_2019_i8nulj.jpg"
-				},
-				{
-					"id": 85,
-					"title": "Ancestors - She Wolf Crow Woman Luna",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Ancestors_-_She_Wolf_Crow_Woman_Luna_2019_as9jsc.jpg"
-				},
-				{
-					"id": 86,
-					"title": "Ancestors Group 1",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Ancestors_Group_1_2019_bzdgpp.jpg"
-				},
-				{
-					"id": 87,
-					"title": "Ancestors Group 2",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Ancestors_Group_2_2019_c1csiq.jpg"
-				},
-				{
-					"id": 88,
-					"title": "Beelzebub",
-					"year": "2020",
-					"src": "/images/dolls/felt-and-fabric/Beelzebub_2020_p2wjb5.jpg"
-				},
-				{
-					"id": 89,
-					"title": "Beth and Erik Wedding Dolls",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Beth_Erik_Wedding_Dolls_2019_k3ijvp.jpg"
-				},
-				{
-					"id": 90,
-					"title": "Black Linen/'/s Kelly",
-					"year": "2020",
-					"src": "/images/dolls/felt-and-fabric/Black_Linen_Skelly_2020_w3qzye.jpg"
-				},
-				{
-					"id": 91,
-					"title": "Boy and Girl Rabbit",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Boy_and_Girl_Rabbit_2020_buhags.jpg"
-				},
-				{
-					"id": 92,
-					"title": "Gang Of Four - Luzhen",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Luzhen_2021_ybhrke.jpg"
-				},
-				{
-					"id": 93,
-					"title": "Gang Of Four - Mary",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Mary_2021_kpones.jpg"
-				},
-				{
-					"id": 94,
-					"title": "Gang Of Four - Rosie",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Rosie_2021_towele.jpg"
-				},
-				{
-					"id": 95,
-					"title": "Gang Of Four - Scott",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Scott_2021_woyxgx.jpg"
-				},
-				{
-					"id": 96,
-					"title": "Gang Of Four",
-					"year": "2021",
-					"src": "/images/dolls/felt-and-fabric/Gang_of_Four_2021_hfahua.jpg"
-				},
-				{
-					"id": 97,
-					"title": "Lemony Tart and Sourpuss",
-					"year": "2017",
-					"src": "/images/dolls/felt-and-fabric/Lemony_Tart_and_Sourpuss_2017_saa4ql.jpg"
-				},
-				{
-					"id": 98,
-					"title": "Luna Moth Doll",
-					"year": "2017",
-					"src": "/images/dolls/felt-and-fabric/Luna_Moth_Doll_2017_eh26wo.jpg"
-				},
-				{
-					"id": 99,
-					"title": "Mermaid",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Mermaid_2016_mj3tec.jpg"
-				},
-				{
-					"id": 100,
-					"title": "Peaceable Kingdom 1",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_1_2018_kbwiov.jpg"
-				},
-				{
-					"id": 101,
-					"title": "Peaceable Kingdom 2",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_2_2018_sdfm7r.jpg"
-				},
-				{
-					"id": 102,
-					"title": "Peaceable Kingdom 3",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_3_2018_af6wy0.jpg"
-				},
-				{
-					"id": 103,
-					"title": "Peaceable Kingdom 4",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_4_2018_phkwub.jpg"
-				},
-				{
-					"id": 104,
-					"title": "Peaceable Kingdom 6",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_6_2018_faxu0h.jpg"
-				},
-				{
-					"id": 105,
-					"title": "Raccoon",
-					"year": "2020",
-					"src": "/images/dolls/felt-and-fabric/Raccoon_2020_oowj8i.jpg"
-				},
-				{
-					"id": 106,
-					"title": "Skeleton Garland",
-					"year": "2019",
-					"src": "/images/dolls/felt-and-fabric/Skeleton_Garland_2019_guc6pi.jpg"
-				},
-				{
-					"id": 107,
-					"title": "Tiger Doll",
-					"year": "2018",
-					"src": "/images/dolls/felt-and-fabric/Tiger_Doll_2018_iakl3l.jpg"
-				},
-				{
-					"id": 108,
-					"title": "White Rabbit Girl with Green Hat",
-					"year": "2017",
-					"src": "/images/dolls/felt-and-fabric/White_Rabbit_Girl_with_Green_Hat_2017_vyjdkh.jpg"
-				},
-				{
-					"id": 109,
-					"title": "Wizard of Oz - Cowardly Lion",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Cowardly_Lion_2016_yirxqc.jpg"
-				},
-				{
-					"id": 110,
-					"title": "Wizard Of Oz - Dorothy and Toto",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Dorothy_and_Toto_2016_klxqgv.jpg"
-				},
-				{
-					"id": 111,
-					"title": "Wizard of Oz - Scarecrow",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Scarecrow_2016_n1yqvc.jpg"
-				},
-				{
-					"id": 112,
-					"title": "Wizard of Oz - Tin Man",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Tin_Man_2016_b19wqy.jpg"
-				},
-				{
-					"id": 113,
-					"title": "Wizard Of Oz - Group",
-					"year": "2016",
-					"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_Group_2016_r78iub.jpg"
-				}
-			]
-		},
-		{
-			"title": "leather dolls",
-			"collection": [
-				{
-					"id": 114,
-					"title": "Babe the Blue Ox",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Babe_the_Blue_Ox_2016_rm8exs.jpg"
-				},
-				{
-					"id": 115,
-					"title": "Bear Man",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Bear_Man_2016_obr99y.jpg"
-				},
-				{
-					"id": 116,
-					"title": "Black Cat",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Black_Cat_2016_e7bv1i.jpg"
-				},
-				{
-					"id": 117,
-					"title": "Bluebird of Happiness",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Bluebird_of_Happiness_2016_eaoz80.jpg"
-				},
-				{
-					"id": 118,
-					"title": "Butterfly Woman",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Butterfly_Woman_2016_wys6kq.jpg"
-				},
-				{
-					"id": 119,
-					"title": "Carnival Rabbit",
-					"year": "2017",
-					"src": "/images/dolls/leather-dolls/Carnival_Rabbit_2017_axponj.jpg"
-				},
-				{
-					"id": 114,
-					"title": "Deer Man",
-					"year": "2017",
-					"src": "/images/dolls/leather-dolls/Deer_Man_2017_xpx6fk.jpg"
-				},
-				{
-					"id": 115,
-					"title": "Frog Man",
-					"year": "2016",
-					"src": "/images/dolls/leather-dolls/Frog_Man_2016_lyl7wf.jpg"
-				}
-			]
-		},
-		{
-			"title": "nested dolls",
-			"collection": [
-				{
-					"id": 116,
-					"title": "Alice In Wonderland - Nesting Dolls",
-					"year": "2020",
-					"src": "/images/dolls/nested-dolls/Alice in Wonderland Nesting Dolls 2020.jpg"
-				},
-				{
-					"id": 117,
-					"title": "Magic Critters - Nesting Dolls",
-					"year": "2016",
-					"src": "/images/dolls/nested-dolls/Magic Critters Nesting Dolls 2016.JPG"
-				},
-				{
-					"id": 118,
-					"title": "Nesting Owls",
-					"year": "2018",
-					"src": "/images/dolls/nested-dolls/Nesting Owls 2018.jpg"
-				},
-				{
-					"id": 119,
-					"title": "Paul Bunyan - Nesting Dolls",
-					"year": "2016",
-					"src": "/images/dolls/nested-dolls/Paul Bunyan Nesting Dolls 1 2016.JPG"
-				},
-				{
-					"id": 120,
-					"title": "We Nest In The Woods",
-					"year": "2017",
-					"src": "/images/dolls/nested-dolls/We Nest In The Woods 1 2017.JPG"
-				},
-				{
-					"id": 121,
-					"title": "Wizard of Oz Nesting Dolls",
-					"year": "2020",
-					"src": "/images/dolls/nested-dolls/Wizard of Oz Nesting Dolls 2020.jpg"
-				},
-				{
-					"id": 122,
-					"title": "World Within A World - Nesting Dolls",
-					"year": "2015",
-					"src": "/images/dolls/nested-dolls/World Within a World Nesting Dolls 2015.jpg"
-				}
-			]
-		}
-	],
+	"dolls": {
+		"title" : "Dolls",
+		"collection" : [
+			{
+				"title": "Felt and Fabric",
+				"collection": [
+					{
+						"id": 82,
+						"title": "Afronaut After A Painting By Peter Williams In Loving Memory",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Afronaut_after_a_painting_by_Peter_Williams_In_Loving_Memory_2021_fbki37.jpg"
+					},
+					{
+						"id": 83,
+						"title": "Ancestors - Crone Forest Girl Valkyrie",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_Crone_Forest_Girl_Valkyrie_2019_whnari.jpg"
+					},
+					{
+						"id": 84,
+						"title": "Ancestors - Medusa Rabbit Girl Bastet",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_Medusa_Rabbit_Girl_Bastet_2019_i8nulj.jpg"
+					},
+					{
+						"id": 85,
+						"title": "Ancestors - She Wolf Crow Woman Luna",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_She_Wolf_Crow_Woman_Luna_2019_as9jsc.jpg"
+					},
+					{
+						"id": 86,
+						"title": "Ancestors Group 1",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_Group_1_2019_bzdgpp.jpg"
+					},
+					{
+						"id": 87,
+						"title": "Ancestors Group 2",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_Group_2_2019_c1csiq.jpg"
+					},
+					{
+						"id": 88,
+						"title": "Beelzebub",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Beelzebub_2020_p2wjb5.jpg"
+					},
+					{
+						"id": 89,
+						"title": "Beth and Erik Wedding Dolls",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Beth_Erik_Wedding_Dolls_2019_k3ijvp.jpg"
+					},
+					{
+						"id": 90,
+						"title": "Black Linen/'/s Kelly",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Black_Linen_Skelly_2020_w3qzye.jpg"
+					},
+					{
+						"id": 91,
+						"title": "Boy and Girl Rabbit",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Boy_and_Girl_Rabbit_2020_buhags.jpg"
+					},
+					{
+						"id": 92,
+						"title": "Gang Of Four - Luzhen",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Luzhen_2021_ybhrke.jpg"
+					},
+					{
+						"id": 93,
+						"title": "Gang Of Four - Mary",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Mary_2021_kpones.jpg"
+					},
+					{
+						"id": 94,
+						"title": "Gang Of Four - Rosie",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Rosie_2021_towele.jpg"
+					},
+					{
+						"id": 95,
+						"title": "Gang Of Four - Scott",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Scott_2021_woyxgx.jpg"
+					},
+					{
+						"id": 96,
+						"title": "Gang Of Four",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_2021_hfahua.jpg"
+					},
+					{
+						"id": 97,
+						"title": "Lemony Tart and Sourpuss",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/Lemony_Tart_and_Sourpuss_2017_saa4ql.jpg"
+					},
+					{
+						"id": 98,
+						"title": "Luna Moth Doll",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/Luna_Moth_Doll_2017_eh26wo.jpg"
+					},
+					{
+						"id": 99,
+						"title": "Mermaid",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Mermaid_2016_mj3tec.jpg"
+					},
+					{
+						"id": 100,
+						"title": "Peaceable Kingdom 1",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_1_2018_kbwiov.jpg"
+					},
+					{
+						"id": 101,
+						"title": "Peaceable Kingdom 2",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_2_2018_sdfm7r.jpg"
+					},
+					{
+						"id": 102,
+						"title": "Peaceable Kingdom 3",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_3_2018_af6wy0.jpg"
+					},
+					{
+						"id": 103,
+						"title": "Peaceable Kingdom 4",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_4_2018_phkwub.jpg"
+					},
+					{
+						"id": 104,
+						"title": "Peaceable Kingdom 6",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_6_2018_faxu0h.jpg"
+					},
+					{
+						"id": 105,
+						"title": "Raccoon",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Raccoon_2020_oowj8i.jpg"
+					},
+					{
+						"id": 106,
+						"title": "Skeleton Garland",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Skeleton_Garland_2019_guc6pi.jpg"
+					},
+					{
+						"id": 107,
+						"title": "Tiger Doll",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Tiger_Doll_2018_iakl3l.jpg"
+					},
+					{
+						"id": 108,
+						"title": "White Rabbit Girl with Green Hat",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/White_Rabbit_Girl_with_Green_Hat_2017_vyjdkh.jpg"
+					},
+					{
+						"id": 109,
+						"title": "Wizard of Oz - Cowardly Lion",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Cowardly_Lion_2016_yirxqc.jpg"
+					},
+					{
+						"id": 110,
+						"title": "Wizard Of Oz - Dorothy and Toto",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Dorothy_and_Toto_2016_klxqgv.jpg"
+					},
+					{
+						"id": 111,
+						"title": "Wizard of Oz - Scarecrow",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Scarecrow_2016_n1yqvc.jpg"
+					},
+					{
+						"id": 112,
+						"title": "Wizard of Oz - Tin Man",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Tin_Man_2016_b19wqy.jpg"
+					},
+					{
+						"id": 113,
+						"title": "Wizard Of Oz - Group",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_Group_2016_r78iub.jpg"
+					}
+				]
+			},
+			 {
+				"title": "leather dolls",
+				"collection": [
+					{
+						"id": 114,
+						"title": "Babe the Blue Ox",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Babe_the_Blue_Ox_2016_rm8exs.jpg"
+					},
+					{
+						"id": 115,
+						"title": "Bear Man",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Bear_Man_2016_obr99y.jpg"
+					},
+					{
+						"id": 116,
+						"title": "Black Cat",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Black_Cat_2016_e7bv1i.jpg"
+					},
+					{
+						"id": 117,
+						"title": "Bluebird of Happiness",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Bluebird_of_Happiness_2016_eaoz80.jpg"
+					},
+					{
+						"id": 118,
+						"title": "Butterfly Woman",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Butterfly_Woman_2016_wys6kq.jpg"
+					},
+					{
+						"id": 119,
+						"title": "Carnival Rabbit",
+						"year": "2017",
+						"src": "/images/dolls/leather-dolls/Carnival_Rabbit_2017_axponj.jpg"
+					},
+					{
+						"id": 114,
+						"title": "Deer Man",
+						"year": "2017",
+						"src": "/images/dolls/leather-dolls/Deer_Man_2017_xpx6fk.jpg"
+					},
+					{
+						"id": 115,
+						"title": "Frog Man",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Frog_Man_2016_lyl7wf.jpg"
+					}
+				]
+			},
+			{
+				"title": "nested dolls",
+				"collection": [
+					{
+						"id": 116,
+						"title": "Alice In Wonderland - Nesting Dolls",
+						"year": "2020",
+						"src": "/images/dolls/nested-dolls/Alice in Wonderland Nesting Dolls 2020.jpg"
+					},
+					{
+						"id": 117,
+						"title": "Magic Critters - Nesting Dolls",
+						"year": "2016",
+						"src": "/images/dolls/nested-dolls/Magic Critters Nesting Dolls 2016.JPG"
+					},
+					{
+						"id": 118,
+						"title": "Nesting Owls",
+						"year": "2018",
+						"src": "/images/dolls/nested-dolls/Nesting Owls 2018.jpg"
+					},
+					{
+						"id": 119,
+						"title": "Paul Bunyan - Nesting Dolls",
+						"year": "2016",
+						"src": "/images/dolls/nested-dolls/Paul Bunyan Nesting Dolls 1 2016.JPG"
+					},
+					{
+						"id": 120,
+						"title": "We Nest In The Woods",
+						"year": "2017",
+						"src": "/images/dolls/nested-dolls/We Nest In The Woods 1 2017.JPG"
+					},
+					{
+						"id": 121,
+						"title": "Wizard of Oz Nesting Dolls",
+						"year": "2020",
+						"src": "/images/dolls/nested-dolls/Wizard of Oz Nesting Dolls 2020.jpg"
+					},
+					{
+						"id": 122,
+						"title": "World Within A World - Nesting Dolls",
+						"year": "2015",
+						"src": "/images/dolls/nested-dolls/World Within a World Nesting Dolls 2015.jpg"
+					}
+				]
+			}
+		]
+	},
 	"masks": {
 		"title" : "Masks",
 		"collection" : [
@@ -871,7 +874,7 @@
 				"id": 133,
 				"title": "Amulet",
 				"year": "2021",
-				"src": "/images/mobiles-and-hanging-sculptures/Amulet 2021.JPG"
+				"src": "/images/mobiles-and-hanging-sculpturesmobiles-and-hanging-sculptures/Amulet 2021.JPG"
 			},
 			{
 				"id": 134,
