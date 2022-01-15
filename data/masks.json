@@ -1,0 +1,65 @@
+{
+    "title" : "Masks",
+    "collection" : [
+        {
+            "id": 123,
+            "title": "Beaded Skull",
+            "year": "2021",
+            "src": "/images/masks/Beaded Skull Mask 2021.JPG"
+        },
+        {
+            "id": 124,
+            "title": "Button Skull",
+            "year": "2021",
+            "src": "/images/masks/Button Skull Mask 2021.JPG"
+        },
+        {
+            "id": 125,
+            "title": "Diablo",
+            "year": "2021",
+            "src": "/images/masks/Diablo Mask  2021.JPG"
+        },
+        {
+            "id": 126,
+            "title": "Great Horned Owl",
+            "year": "2021",
+            "src": "/images/masks/Great Horned Owl mask 2021.JPG"
+        },
+        {
+            "id": 127,
+            "title": "Linen Hood Mask",
+            "year": "2021",
+            "src": "/images/masks/Linen Hood Mask 2021.JPG"
+        },
+        {
+            "id": 128,
+            "title": "Owl Mask",
+            "year": "2017",
+            "src": "/images/masks/Owl Mask 2017.JPG"
+        },
+        {
+            "id": 129,
+            "title": "Snake Mask",
+            "year": "2021",
+            "src": "/images/masks/Snake Mask 2021.JPG"
+        },
+        {
+            "id": 130,
+            "title": "The Void",
+            "year": "2021",
+            "src": "/images/masks/The Void Mask 2021.JPG"
+        },
+        {
+            "id": 131,
+            "title": "Turtle Mask",
+            "year": "2020",
+            "src": "/images/masks/Turtle Mask 2020.JPG"
+        },
+        {
+            "id": 132,
+            "title": "White Rabbit",
+            "year": "2020",
+            "src": "/images/masks/White Rabbit Mask 2020.JPG"
+        }
+    ]
+}

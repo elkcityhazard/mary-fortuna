@@ -1,0 +1,233 @@
+{
+    "title": "Animals and Instincts",
+    "collection": [
+        {
+            "id": 1,
+            "title": "Apollo Butterfly",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Apollo_Butterfly_2016_mgkjwp.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Black Bear",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Black_Bear_2020_gbkac6.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Black Widow",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Black_Widow_2016_fhrohu.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Blue Morpho",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Blue_Morpho_2016_samg8g.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Blue Pink Gold Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Blue_Pink_Gold_Bug_2016_lbol34.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Blue Snake",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Blue_Snake_2016_j4cbgd.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Cicada",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Cicada_2016_zcmvcl.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Collection Of Insects For MOCAD",
+            "year": "2012",
+            "src": "/images/animals-and-instincts/Collection_of_Insects_for_MOCAD_2012_lzqtbg.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Dragonfly",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Dragonfly_2016_hmhcr7.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Felt Turtle",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Felt_Turtle_2020_o2peqk.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Goldfinch",
+            "year": "2017",
+            "src": "/images/animals-and-instincts/Goldfinch_2017_kjbssz.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Grand Duchess Butterfly",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Grand_Duchess_Butterfly_2016_ghkuo6.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Green Beaded Wing Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Green_Beaded_Wing_Bug_2016_zowux7.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Green Caterpillar",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Green_Caterpillar_2016_rbxocw.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Green Velvet Beaded Silver Wing",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Green_Velvet_Beaded_Silver_Wing_2016_zxxkmk.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Hummingbird",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Hummingbird_2016_tx7yoy.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Katydid",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Katydid_2016_ctjkhu.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Little Felt Bee",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Little_Felt_Bee_2020_kasrfx.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Monarch Butterfy",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Monarch_Butterflu_2016_t4gajl.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Orange Banded Sulphur",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Orange_Banded_Sulphur_2016_amnswl.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Orange Pink Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Orange_Pink_Bug_2016_ftmfve.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Orange Purple Pink Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Orange_Purple_Pink_Bug_2016_byglhy.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Pink Ant",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Pink_Ant_2016_stfc6t.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Pink Green Blue Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Pink_Green_Blue_Bug_2016_tgewvf.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Pink Lizard",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Pink_Lizard_2016_eznfja.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Praying Mantis",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Praying_Mantis_2016_ni66nm.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Purple Gold Blue Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Purple_Gold_Blue_Bug_2016_ujepg2.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Purple Octopus",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Purple_Octopus_2020_zk2vr2.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Queen Bee",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Queen_Bee_2020_kfrj14.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Red Headed Sparkle Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Red_Headed_Sparkle_Bug_2016_sui7zi.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Red Nymph",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Red_Nymph_2016_rorrdx.jpg"
+        },
+        {
+            "id": 32,
+            "title": "Red Polka Dot Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Red_Polka_Dot_Bug_2016_ptdphg.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Silk Bee",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Silk_Bee_2016_mum52d.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Silk Crow",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Silk_Crow_2016_fcfr2s.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Silk Frog",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Silk_Frog_2016_wz0nd7.jpg"
+        },
+        {
+            "id": 36,
+            "title": "Silky Ruffle Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Silky_Ruffle_Bug_2016_rdapcp.jpg"
+        },
+        {
+            "id": 37,
+            "title": "Two Frogs",
+            "year": "2020",
+            "src": "/images/animals-and-instincts/Two_Frogs_2020_yal8ly.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Two Tone Green Bug",
+            "year": "2016",
+            "src": "/images/animals-and-instincts/Two_Tone_Green_Bug_2016_wuuop9.jpg"
+        }
+    ]
+}

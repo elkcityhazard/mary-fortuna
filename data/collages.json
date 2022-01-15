@@ -1,0 +1,65 @@
+{
+    "title": "collages",
+    "collection": [
+        {
+            "id": 39,
+            "title": "Darkness Darkness",
+            "year": "2018",
+            "src": "/images/collages/Darkness_Darkness_2018_q6t7q4.jpg"
+        },
+        {
+            "id": 40,
+            "title": "Dream of the Snake",
+            "year": "2018",
+            "src": "/images/collages/Dream_of_the_Snake_2018_fepvim.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Flaming Hand",
+            "year": "2019",
+            "src": "/images/collages/Flaming_Hand_2019_pcixf3.jpg"
+        },
+        {
+            "id": 42,
+            "title": "Flaming Heart",
+            "year": "2019",
+            "src": "/images/collages/Flaming_Heart_2019_pbyql3.jpg"
+        },
+        {
+            "id": 43,
+            "title": "Holy Mountain",
+            "year": "2018",
+            "src": "/images/collages/holy-mountain-2018.jpg"
+        },
+        {
+            "id": 44,
+            "title": "Horizon Flower",
+            "year": "2019",
+            "src": "/images/collages/horizon-flower-2019.jpg"
+        },
+        {
+            "id": 45,
+            "title": "I Can See Cleary",
+            "year": "2018",
+            "src": "/images/collages/I_Can_See_Clearly_2018_qwjozj.jpg"
+        },
+        {
+            "id": 46,
+            "title": "Little Snake",
+            "year": "2019",
+            "src": "/images/collages/Little_Snake_2019_yxy3eo.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Moon Over The Mountain",
+            "year": "2018",
+            "src": "/images/collages/Moon_Over_the_Mountain_2018_jjccmd.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Rainbow - Get The Balance Right",
+            "year": "2018",
+            "src": "/images/collages/Rainbow-Get_the_Balance_Right_2018_lgyjkp.jpg"
+        }
+    ]
+}

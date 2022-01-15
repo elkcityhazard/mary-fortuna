@@ -11,5 +11,5 @@ author: Mary Fortuna
 summary: 'Nesting Dolls, also known as matryoshka, are surprisingly barely 100 years
   old.   '
 image_upload: "/uploads/magic-critters-nesting-dolls-2016.JPG"
-
+layout: nested-dolls
 ---

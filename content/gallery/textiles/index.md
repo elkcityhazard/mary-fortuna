@@ -10,5 +10,5 @@ summary: "\"As a textile artist, I love to work with all types of materials, but
   particularly love working with silk, cotton, and wool. I use the fibers to create
   unique art that is both beautiful and functional. My fiber creations are all handmade,
   with each one being a unique piece of work."
-
+layout: textiles
 ---

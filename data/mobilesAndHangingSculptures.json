@@ -1,0 +1,41 @@
+{
+    "title" : "Mobiles and Hanging Sculptures",
+    "collection" : [
+        {
+            "id": 133,
+            "title": "Amulet",
+            "year": "2021",
+            "src": "/images/mobiles-and-hanging-sculptures/Amulet 2021.JPG"
+        },
+        {
+            "id": 134,
+            "title": "Conundrum",
+            "year": "2019",
+            "src": "/images/mobiles-and-hanging-sculptures/Conundrum 2019.jpg"
+        },
+        {
+            "id": 135,
+            "title": "Floating Forest Mobile Installation - Shot At Galerie Camille",
+            "year": "2021",
+            "src": "/images/mobiles-and-hanging-sculptures/Floating Forest Mobile installation shot at Galerie Camille 2021.jpg"
+        },
+        {
+            "id": 136,
+            "title": "She Towers Above, Giant Flying Snake, The Great Curve - Installation Shot",
+            "year": "2013",
+            "src": "/images/mobiles-and-hanging-sculptures/She Towers Above, Giant Flying Snake, The Great Curve - Installation Shot 2013.JPG"
+        },
+        {
+            "id": 137,
+            "title": "Swarm",
+            "year": "2021",
+            "src": "/images/mobiles-and-hanging-sculptures/Swarm 2021.JPG"
+        },
+        {
+            "id": 138,
+            "title": "Swarm - Detail",
+            "year": "2021",
+            "src": "/images/mobiles-and-hanging-sculptures/Swarm detail 2021.JPG"
+        }
+    ]
+}

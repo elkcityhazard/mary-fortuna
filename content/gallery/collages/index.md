@@ -12,5 +12,5 @@ image_upload: "/uploads/holy_mountain_2018_rn06t1.jpg"
 summary: 'Collages describe a technique of pasting paper and other materials onto
   various surfaces.  They can include other media such as painting and drawing and
   contain three dimensional objects.  '
-
+layout: collages
 ---

@@ -1,0 +1,53 @@
+{
+    "title": "leather dolls",
+    "collection": [
+        {
+            "id": 114,
+            "title": "Babe the Blue Ox",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Babe_the_Blue_Ox_2016_rm8exs.jpg"
+        },
+        {
+            "id": 115,
+            "title": "Bear Man",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Bear_Man_2016_obr99y.jpg"
+        },
+        {
+            "id": 116,
+            "title": "Black Cat",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Black_Cat_2016_e7bv1i.jpg"
+        },
+        {
+            "id": 117,
+            "title": "Bluebird of Happiness",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Bluebird_of_Happiness_2016_eaoz80.jpg"
+        },
+        {
+            "id": 118,
+            "title": "Butterfly Woman",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Butterfly_Woman_2016_wys6kq.jpg"
+        },
+        {
+            "id": 119,
+            "title": "Carnival Rabbit",
+            "year": "2017",
+            "src": "/images/dolls/leather-dolls/Carnival_Rabbit_2017_axponj.jpg"
+        },
+        {
+            "id": 114,
+            "title": "Deer Man",
+            "year": "2017",
+            "src": "/images/dolls/leather-dolls/Deer_Man_2017_xpx6fk.jpg"
+        },
+        {
+            "id": 115,
+            "title": "Frog Man",
+            "year": "2016",
+            "src": "/images/dolls/leather-dolls/Frog_Man_2016_lyl7wf.jpg"
+        }
+    ]
+}

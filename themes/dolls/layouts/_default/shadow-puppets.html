@@ -2,15 +2,13 @@
 <section class="section">
     <div class="container">
         <div class="grid-container">
-            {{ with .Resources.ByType "image" }}
-            {{ range . }}
-            {{ $image := .}}
-            {{ $resized := $image.Fit "275x350 webp q100" }}
-            {{ $fullsize := $image.Resize "900x webp jpeg top" }}
-            {{ $thumb := $image.Resize "75x75 webp photo top"}}
+            {{ with .Site.Data.shadowPuppets }}
+            
+            {{ range .collection }}
             <div class="grid-item mx-auto" data-aos="fade-up" data-aos-duration="1250" data-aos-delay="150">
-                <a data-fslightbox href="{{ $fullsize.RelPermalink | absURL }}" >
-                    <img data-src="{{ $resized.RelPermalink | absURL }}" class="lazy" width="350" height="350">
+                <a data-fslightbox href="{{ .src | absURL }}" title="{{.title }} - {{ .year }}" style="position: relative; ">
+                    <span style="background: rgba(0,0,0,0.75); color: #fff; position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">{{ .title }} - {{ .year }}</span>
+                    <img data-src="{{ .src | absURL }}" class="lazy" width="350" height="350">
                 </a>
             </div>
             {{ end }}

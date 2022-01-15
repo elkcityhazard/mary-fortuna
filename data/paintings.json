@@ -1,0 +1,185 @@
+{
+    "title": "Paintings",
+    "collection" : [
+        {
+            "id": 139,
+            "title": "Auspicious Tourquoise Snake",
+            "year": "2011",
+            "src": "/images/paintings/Auspicious Tourquoise Snake 2011.jpg"
+        },
+        {
+            "id": 140,
+            "title": "Barn Owl",
+            "year": "2019",
+            "src": "/images/paintings/Barn Owl 2019.jpg"
+        },
+        {
+            "id": 141,
+            "title": "Bear, Bird, Bees",
+            "year": "2019",
+            "src": "/images/paintings/Bear, Bird, Bees 2019.jpg"
+        },
+        {
+            "id": 142,
+            "title": "Big Orange Snake heart In Hand",
+            "year": "2011",
+            "src": "/images/paintings/Big Orange Snake Heart in Hand 2011.jpg"
+        },
+        {
+            "id": 143,
+            "title": "Black Snake Hamsa",
+            "year": "2015",
+            "src": "/images/paintings/Black Snake Hamsa 2015.jpg"
+        },
+        {
+            "id": 144,
+            "title": "Blue Snake, Bees, Lotus",
+            "year": "2015",
+            "src": "/images/paintings/Blue snake, Bees, Lotus 2015.jpg"
+        },
+        {
+            "id": 145,
+            "title": "Deep In The Forest",
+            "year": "2017",
+            "src": "/images/paintings/Deep in the Forest 2017.JPG"
+        },
+        {
+            "id": 146,
+            "title": "Dry Bones",
+            "year": "2011",
+            "src": "/images/paintings/Dry Bones 2011.jpg"
+        },
+        {
+            "id": 147,
+            "title": "El Corazon",
+            "year": "2015",
+            "src": "/images/paintings/El Corazon 2015.jpg"
+        },
+        {
+            "id": 148,
+            "title": "Full Moon Crows",
+            "year": "2016",
+            "src": "/images/paintings/Full Moon Crows 2016.JPG"
+        },
+        {
+            "id": 149,
+            "title": "Green Snake With 21 Bees",
+            "year": "2011",
+            "src": "/images/paintings/Green Snake with 21 Bees 2011.jpg"
+        },
+        {
+            "id": 150,
+            "title": "Infinite Ourobouros",
+            "year": "2011",
+            "src": "/images/paintings/Infinite Ourobouros 2011.jpg"
+        },
+        {
+            "id": 151,
+            "title": "King Crow",
+            "year": "2016",
+            "src": "/images/paintings/King Crow 2016.jpg"
+        },
+        {
+            "id": 152,
+            "title": "King Infinite Ourobouros for Jack",
+            "year": "2017",
+            "src": "/images/paintings/King Infinite Ourobouros for Jack 2017.JPG"
+        },
+        {
+            "id": 153,
+            "title": "King of Snakes with Lotus and Crow",
+            "year": "2015",
+            "src": "/images/paintings/King of Snakes with Lotus and Crow 2015.jpg"
+        },
+        {
+            "id": 154,
+            "title": "Hand Snake Blue",
+            "year": "2015",
+            "src": "/images/paintings/Lotus Hand Snake blue 2015.jpg"
+        },
+        {
+            "id": 155,
+            "title": "Hand Snake Red",
+            "year": "2015",
+            "src": "/images/paintings/Lotus Hand Snake red 2015.jpg"
+        },
+        {
+            "id": 156,
+            "title": "Lotus Turtle Blue",
+            "year": "2015",
+            "src": "/images/paintings/Lotus Turtle blue 2015.jpg"
+        },
+        {
+            "id": 157,
+            "title": "Orange Ourobouros",
+            "year": "2015",
+            "src": "/images/paintings/Orange Ourobouros 2015.jpg"
+        },
+        {
+            "id": 158,
+            "title": "Paisley Snake black",
+            "year": "2011",
+            "src": "/images/paintings/Paisley Snake black 2011.jpg"
+        },
+        {
+            "id": 159,
+            "title": "Snake Red",
+            "year": "2011",
+            "src": "/images/paintings/Paisley Snake red 2011.jpg"
+        },
+        {
+            "id": 160,
+            "title": "Queen Bee",
+            "year": "2017",
+            "src": "/images/paintings/Queen Bee 2017.JPG"
+        },
+        {
+            "id": 161,
+            "title": "Queen Of The Night",
+            "year": "2017",
+            "src": "/images/paintings/Queen of the Night 2017.JPG"
+        },
+        {
+            "id": 162,
+            "title": "Raven Woman",
+            "year": "2017",
+            "src": "/images/paintings/Raven Woman 2017.JPG"
+        },
+        {
+            "id": 163,
+            "title": "Robin",
+            "year": "2016",
+            "src": "/images/paintings/Robin 2016.JPG"
+        },
+        {
+            "id": 164,
+            "title": "Snake In The Garden",
+            "year": "2019",
+            "src": "/images/paintings/Snake in the Garden 2019.jpg"
+        },
+        {
+            "id": 165,
+            "title": "Squaring the Circle",
+            "year": "2021",
+            "src": "/images/paintings/Squaring the Circle 2011.jpg"
+        },
+        {
+            "id": 166,
+            "title": "Tourquoise Snake with Turtle and Bees",
+            "year": "2011",
+            "src": "/images/paintings/Tourquoise Snake with Turtle and Bees 2011.jpg"
+        },
+        {
+            "id": 167,
+            "title": "Two Snakes, Bees, Lotus",
+            "year": "2015",
+            "src": "/images/paintings/Two Snakes, Bees, Lotus 2015.jpg"
+        },
+        {
+            "id": 168,
+            "title": "Yellow Snake with Bees",
+            "year": "2011",
+            "src": "/images/paintings/Yellow Snake with Bees 2011.jpg"
+        }
+    ]
+}

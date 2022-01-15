@@ -13,5 +13,5 @@ author: Mary Fortuna
 image_upload: "/uploads/swarm-detail-2021.JPG"
 summary: 'Installations, Mobiles, Hanging Sculptures.  Interesting observations and
   figures.  '
-
+layout: mobiles-and-hangings
 ---

@@ -14,6 +14,6 @@ publishdate: 2021-11-25T05:00:00+00:00
 author: Mary Fortuna
 image_upload: "/uploads/alo_s_fox_doll_2021_jr5ftl.jpg"
 summary: 'As the title suggests, a collection of collaborations, commissions, and
-  kid''s drawings.  '
-
+  kid''s drawings.'
+layout: commissions-and-kids-drawings
 ---
