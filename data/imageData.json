@@ -1,262 +1,1470 @@
 {
-  "0": {
-    "category": "animals and insects",
-    "pieces": [
-        { "id" : 1,
-        "title": "Apollo Butterfly",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Apollo_Butterfly_2016_mgkjwp.jpg"
+	"0": {
+		"category": "animals and insects",
+		"pieces": [{
+				"id": 1,
+				"title": "Apollo Butterfly",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Apollo_Butterfly_2016_mgkjwp.jpg"
+			},
+			{
+				"id": 2,
+				"title": "Black Bear",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Black_Bear_2020_gbkac6.jpg"
+			},
+			{
+				"id": 3,
+				"title": "Black Widow",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Black_Widow_2016_fhrohu.jpg"
+			},
+			{
+				"id": 4,
+				"title": "Blue Morpho",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Blue_Morpho_2016_samg8g.jpg"
+			},
+			{
+				"id": 5,
+				"title": "Blue Pink Gold Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Blue_Pink_Gold_Bug_2016_lbol34.jpg"
+			},
+			{
+				"id": 6,
+				"title": "Blue Snake",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Blue_Snake_2016_j4cbgd.jpg"
+			},
+			{
+				"id": 7,
+				"title": "Cicada",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Cicada_2016_zcmvcl.jpg"
+			},
+			{
+				"id": 8,
+				"title": "Collection Of Insects FOr MOCAD",
+				"year": "2012",
+				"src": "/images/animals-and-instincts/Collection_of_Insects_for_MOCAD_2012_lzqtbg.jpg"
+			},
+			{
+				"id": 9,
+				"title": "Dragonfly",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Dragonfly_2016_hmhcr7.jpg"
+			},
+			{
+				"id": 10,
+				"title": "Felt Turtle",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Felt_Turtle_2020_o2peqk.jpg"
+			},
+			{
+				"id": 11,
+				"title": "Goldfinch",
+				"year": "2017",
+				"src": "/images/animals-and-instincts/Goldfinch_2017_kjbssz.jpg"
+			},
+			{
+				"id": 12,
+				"title": "Grand Duchess Butterfly",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Grand_Duchess_Butterfly_2016_ghkuo6.jpg"
+			},
+			{
+				"id": 13,
+				"title": "Green Beaded Wing Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Green_Beaded_Wing_Bug_2016_zowux7.jpg"
+			},
+			{
+				"id": 14,
+				"title": "Green Caterpillar",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Green_Caterpillar_2016_rbxocw.jpg"
+			},
+			{
+				"id": 15,
+				"title": "Green Velvet Beaded Silver Wing",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Green_Velvet_Beaded_Silver_Wing_2016_zxxkmk.jpg"
+			},
+			{
+				"id": 16,
+				"title": "Hummingbird",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Hummingbird_2016_tx7yoy.jpg"
+			},
+			{
+				"id": 17,
+				"title": "Katydid",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Katydid_2016_ctjkhu.jpg"
+			},
+			{
+				"id": 18,
+				"title": "Little Felt Bee",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Little_Felt_Bee_2020_kasrfx.jpg"
+			},
+			{
+				"id": 19,
+				"title": "Monarch Butterfy",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Monarch_Butterflu_2016_t4gajl.jpg"
+			},
+			{
+				"id": 20,
+				"title": "Orange Banded Sulphur",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Orange_Banded_Sulphur_2016_amnswl.jpg"
+			},
+			{
+				"id": 21,
+				"title": "Orange Pink Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Orange_Pink_Bug_2016_ftmfve.jpg"
+			},
+			{
+				"id": 22,
+				"title": "Orange Purple Pink Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Orange_Purple_Pink_Bug_2016_byglhy.jpg"
+			},
+			{
+				"id": 23,
+				"title": "Pink Ant",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Pink_Ant_2016_stfc6t.jpg"
+			},
+			{
+				"id": 24,
+				"title": "Pink Green Blue Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Pink_Green_Blue_Bug_2016_tgewvf.jpg"
+			},
+			{
+				"id": 25,
+				"title": "Pink Lizard",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Pink_Lizard_2016_eznfja.jpg"
+			},
+			{
+				"id": 26,
+				"title": "Praying Mantis",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Praying_Mantis_2016_ni66nm.jpg"
+			},
+			{
+				"id": 27,
+				"title": "Purple Gold Blue Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Purple_Gold_Blue_Bug_2016_ujepg2.jpg"
+			},
+			{
+				"id": 28,
+				"title": "Purple Octopus",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Purple_Octopus_2020_zk2vr2.jpg"
+			},
+			{
+				"id": 29,
+				"title": "Queen Bee",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Queen_Bee_2020_kfrj14.jpg"
+			},
+			{
+				"id": 30,
+				"title": "Red Headed Sparkle Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Red_Headed_Sparkle_Bug_2016_sui7zi.jpg"
+			},
+			{
+				"id": 31,
+				"title": "Red Nymph",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Red_Nymph_2016_rorrdx.jpg"
+			},
+			{
+				"id": 32,
+				"title": "Red Polka Dot Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Red_Polka_Dot_Bug_2016_ptdphg.jpg"
+			},
+			{
+				"id": 33,
+				"title": "Silk Bee",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Silk_Bee_2016_mum52d.jpg"
+			},
+			{
+				"id": 34,
+				"title": "Silk Crow",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Silk_Crow_2016_fcfr2s.jpg"
+			},
+			{
+				"id": 35,
+				"title": "Silk Frog",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Silk_Frog_2016_wz0nd7.jpg"
+			},
+			{
+				"id": 36,
+				"title": "Silky Ruffle Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Silky_Ruffle_Bug_2016_rdapcp.jpg"
+			},
+			{
+				"id": 37,
+				"title": "Two Frogs",
+				"year": "2020",
+				"src": "/images/animals-and-instincts/Two_Frogs_2020_yal8ly.jpg"
+			},
+			{
+				"id": 38,
+				"title": "Two Tone Green Bug",
+				"year": "2016",
+				"src": "/images/animals-and-instincts/Two_Tone_Green_Bug_2016_wuuop9.jpg"
+			}
+		]
+	},
+	"1": {
+		"category": "collages",
+		"pieces": [{
+				"id": 39,
+				"title": "Darkness Darkness",
+				"year": "2018",
+				"src": "/images/collages/Darkness_Darkness_2018_q6t7q4.jpg"
+			},
+			{
+				"id": 40,
+				"title": "Dream of the Snake",
+				"year": "2018",
+				"src": "/images/collages/Dream_of_the_Snake_2018_fepvim.jpg"
+			},
+			{
+				"id": 41,
+				"title": "Flaming Hand",
+				"year": "2019",
+				"src": "/images/collages/Flaming_Hand_2019_pcixf3.jpg"
+			},
+			{
+				"id": 42,
+				"title": "Flaming Heart",
+				"year": "2019",
+				"src": "/images/collages/Flaming_Heart_2019_pbyql3.jpg"
+			},
+			{
+				"id": 43,
+				"title": "Holy Mountain",
+				"year": "2018",
+				"src": "/images/collages/holy-mountain-2018.jpg"
+			},
+			{
+				"id": 44,
+				"title": "Horizon Flower",
+				"year": "2019",
+				"src": "/images/collages/horizon-flower-2019.jpg"
+			},
+			{
+				"id": 45,
+				"title": "I Can See Cleary",
+				"year": "2018",
+				"src": "/images/collages/I_Can_See_Clearly_2018_qwjozj.jpg"
+			},
+			{
+				"id": 46,
+				"title": "Little Snake",
+				"year": "2019",
+				"src": "/images/collages/Little_Snake_2019_yxy3eo.jpg"
+			},
+			{
+				"id": 47,
+				"title": "Moon Over The Mountain",
+				"year": "2018",
+				"src": "/images/collages/Moon_Over_the_Mountain_2018_jjccmd.jpg"
+			},
+			{
+				"id": 48,
+				"title": "Rainbow - Get The Balance Right",
+				"year": "2018",
+				"src": "/images/collages/Rainbow-Get_the_Balance_Right_2018_lgyjkp.jpg"
+			}
+		]
+	},
+	"2": {
+		"category": "commissions-and-kids-drawings",
+		"pieces": [{
+				"id": 49,
+				"title": "Alo/'/s Fox Doll",
+				"year": "2021",
+				"src": "/images/commissions-and-kids-drawings/Alo_s_Fox_Doll_2021_jr5ftl.jpg"
+			},
+			{
+				"id": 50,
+				"title": "Alo/'/s Fox Drawing",
+				"year": "2021",
+				"src": "/images/commissions-and-kids-drawings/Alo_s_Fox_Drawing_2021_uez8b6.jpg"
+			},
+			{
+				"id": 51,
+				"title": "Alo With Fox Doll",
+				"year": "2021",
+				"src": "/images/commissions-and-kids-drawings/Alo_with_Fox_doll_2021_eiunnb.jpg"
+			},
+			{
+				"id": 52,
+				"title": "Angel Cat 2",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Angel_Cat_2_2018_nyja9g.jpg"
+			},
+			{
+				"id": 53,
+				"title": "Angel Cat",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Angel_Cat_2018_vszblr.jpg"
+			},
+			{
+				"id": 54,
+				"title": "Angel Cat Drawing",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Angel_Cat_Drawing_2018_galszy.jpg"
+			},
+			{
+				"id": 55,
+				"title": "Finn - Ghost Of Christmas Presents Doll",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Ghost_of_Christmas_Presents_doll_2017_qx8dxa.jpg"
+			},
+			{
+				"id": 56,
+				"title": "Finn - Ghost Of Christmas Presents Drawing",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Ghost_of_Christmas_Presents_drawing_2017.jpg"
+			},
+			{
+				"id": 57,
+				"title": "Finn - Kramups Doll 1",
+				"year": "2015",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krampus_doll_1_2015_smlgfm.jpg"
+			},
+			{
+				"id": 58,
+				"title": "Finn - Krampus Doll 2",
+				"year": "2015",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krampus_doll_2_2015_hy407q.jpg"
+			},
+			{
+				"id": 59,
+				"title": "Finn - Krampus Drawing",
+				"year": "2015",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krampus_drawing_2015_ets3lv.jpg"
+			},
+			{
+				"id": 60,
+				"title": "Finn - Krisp Kringle Doll",
+				"year": "2013",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krisp_Kringle_doll_2013_cd1fwt.jpg"
+			},
+			{
+				"id": 61,
+				"title": "Finn - Krisp Kringle Drawing",
+				"year": "2013",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krisp_Kringle_drawing_2013_nrra1h.jpg"
+			},
+			{
+				"id": 62,
+				"title": "Finn - Krisp Kringle Front",
+				"year": "2013",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krisp_Kringle_front_2013_vzj4hc.jpg"
+			},
+			{
+				"id": 63,
+				"title": "Finn - Krisp Kringle Reverse",
+				"year": "2013",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Krisp_Kringle_reverse_2013_j7wqyq.jpg"
+			},
+			{
+				"id": 64,
+				"title": "Finn - Santa/'/s Claws Doll",
+				"year": "2012",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Santa_s_Claws_Doll_2012_jwp0wx.jpg"
+			},
+			{
+				"id": 65,
+				"title": "Finn - Santa/'/s Claws Drawing",
+				"year": "2012",
+				"src": "/images/commissions-and-kids-drawings/Finn_-_Santa_s_Claws_Drawing_2012_ydsde0.jpg"
+			},
+			{
+				"id": 66,
+				"title": "Finn and his Dad Dolls",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Finn_and_his_Dad_dolls_2018_njuimd.jpg"
+			},
+			{
+				"id": 67,
+				"title": "Flying Monkey",
+				"year": "2016",
+				"src": "/images/commissions-and-kids-drawings/Flying_Monkey_2016_mdzc2h.jpg"
+			},
+			{
+				"id": 68,
+				"title": "Kali For Peter Williams",
+				"year": "2015",
+				"src": "/images/commissions-and-kids-drawings/Kali_for_Peter_Williams_2015_r37hky.jpg"
+			},
+			{
+				"id": 69,
+				"title": "Krampus",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Krampus_2017_fm6cnw.jpg"
+			},
+			{
+				"id": 70,
+				"title": "Krampus - Back",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Krampus_back_2017_axpfjr.jpg"
+			},
+			{
+				"id": 71,
+				"title": "Mermaid",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Mermaid_2018_zn9gfk.jpg"
+			},
+			{
+				"id": 72,
+				"title": "Mermaid Drawing",
+				"year": "2018",
+				"src": "/images/commissions-and-kids-drawings/Mermaid_drawing_2018_v8e7wz.jpg"
+			},
+			{
+				"id": 73,
+				"title": "Monster 1",
+				"year": "2014",
+				"src": "/images/commissions-and-kids-drawings/Monster_1_2014_sceciy.jpg"
+			},
+			{
+				"id": 74,
+				"title": "Monster 2",
+				"year": "2014",
+				"src": "/images/commissions-and-kids-drawings/Monster_2_2014_o6fuus.jpg"
+			},
+			{
+				"id": 75,
+				"title": "Monster Drawing 1",
+				"year": "2014",
+				"src": "/images/commissions-and-kids-drawings/Monster_Drawing_1_2014_jkfrdp.jpg"
+			},
+			{
+				"id": 76,
+				"title": "Monster Drawing 2",
+				"year": "2014",
+				"src": "/images/commissions-and-kids-drawings/Monster_Drawing_2_2014_mb41w7.jpg"
+			},
+			{
+				"id": 77,
+				"title": "Saturn Luna and Doctor Astronaut",
+				"year": "2020",
+				"src": "/images/commissions-and-kids-drawings/Saturn_Luna_and_Doctor_Astronaut_2020_rvafn4.jpg"
+			},
+			{
+				"id": 78,
+				"title": "Velvet Elephant",
+				"year": "2019",
+				"src": "/images/commissions-and-kids-drawings/Velvet_Elephant_2019_l7dvwx.jpg"
+			},
+			{
+				"id": 79,
+				"title": "Velvet Monkey",
+				"year": "2019",
+				"src": "/images/commissions-and-kids-drawings/Velvet_Monkey_2019_ectu5e.jpg"
+			},
+			{
+				"id": 80,
+				"title": "Wolfman Doll",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Wolfman_Doll_2017_trdzcw.jpg"
+			},
+			{
+				"id": 81,
+				"title": "Wolfman Drawing",
+				"year": "2017",
+				"src": "/images/commissions-and-kids-drawings/Wolfman_drawing_2017_lzs23m.jpg"
+			}
+		]
+	},
+	"3": {
+		"category": "dolls",
+		"pieces": [{
+				"title": "felt and fabric",
+				"pieces": [{
+						"id": 82,
+						"title": "Afronaut After A Painting By Peter Williams In Loving Memory",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Afronaut_after_a_painting_by_Peter_Williams_In_Loving_Memory_2021_fbki37.jpg"
+					},
+					{
+						"id": 83,
+						"title": "Ancestors - Crone Forest Girl Valkyrie",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_Crone_Forest_Girl_Valkyrie_2019_whnari.jpg"
+					},
+					{
+						"id": 84,
+						"title": "Ancestors - Medusa Rabbit Girl Bastet",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_Medusa_Rabbit_Girl_Bastet_2019_i8nulj.jpg"
+					},
+					{
+						"id": 85,
+						"title": "Ancestors - She Wolf Crow Woman Luna",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_-_She_Wolf_Crow_Woman_Luna_2019_as9jsc.jpg"
+					},
+					{
+						"id": 86,
+						"title": "Ancestors Group 1",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_Group_1_2019_bzdgpp.jpg"
+					},
+					{
+						"id": 87,
+						"title": "Ancestors Group 2",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Ancestors_Group_2_2019_c1csiq.jpg"
+					},
+					{
+						"id": 88,
+						"title": "Beelzebub",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Beelzebub_2020_p2wjb5.jpg"
+					},
+					{
+						"id": 89,
+						"title": "Beth and Erik Wedding Dolls",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Beth_Erik_Wedding_Dolls_2019_k3ijvp.jpg"
+					},
+					{
+						"id": 90,
+						"title": "Black Linen/'/s Kelly",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Black_Linen_Skelly_2020_w3qzye.jpg"
+					},
+					{
+						"id": 91,
+						"title": "Boy and Girl Rabbit",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Boy_and_Girl_Rabbit_2020_buhags.jpg"
+					},
+					{
+						"id": 92,
+						"title": "Gang Of Four - Luzhen",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Luzhen_2021_ybhrke.jpg"
+					},
+					{
+						"id": 93,
+						"title": "Gang Of Four - Mary",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Mary_2021_kpones.jpg"
+					},
+					{
+						"id": 94,
+						"title": "Gang Of Four - Rosie",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Rosie_2021_towele.jpg"
+					},
+					{
+						"id": 95,
+						"title": "Gang Of Four - Scott",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_-_Scott_2021_woyxgx.jpg"
+					},
+					{
+						"id": 96,
+						"title": "Gang Of Four",
+						"year": "2021",
+						"src": "/images/dolls/felt-and-fabric/Gang_of_Four_2021_hfahua.jpg"
+					},
+					{
+						"id": 97,
+						"title": "Lemony Tart and Sourpuss",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/Lemony_Tart_and_Sourpuss_2017_saa4ql.jpg"
+					},
+					{
+						"id": 98,
+						"title": "Luna Moth Doll",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/Luna_Moth_Doll_2017_eh26wo.jpg"
+					},
+					{
+						"id": 99,
+						"title": "Mermaid",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Mermaid_2016_mj3tec.jpg"
+					},
+					{
+						"id": 100,
+						"title": "Peaceable Kingdom 1",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_1_2018_kbwiov.jpg"
+					},
+					{
+						"id": 101,
+						"title": "Peaceable Kingdom 2",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_2_2018_sdfm7r.jpg"
+					},
+					{
+						"id": 102,
+						"title": "Peaceable Kingdom 3",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_3_2018_af6wy0.jpg"
+					},
+					{
+						"id": 103,
+						"title": "Peaceable Kingdom 4",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_4_2018_phkwub.jpg"
+					},
+					{
+						"id": 104,
+						"title": "Peaceable Kingdom 6",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Peaceable_Kingdom_6_2018_faxu0h.jpg"
+					},
+					{
+						"id": 105,
+						"title": "Raccoon",
+						"year": "2020",
+						"src": "/images/dolls/felt-and-fabric/Raccoon_2020_oowj8i.jpg"
+					},
+					{
+						"id": 106,
+						"title": "Skeleton Garland",
+						"year": "2019",
+						"src": "/images/dolls/felt-and-fabric/Skeleton_Garland_2019_guc6pi.jpg"
+					},
+					{
+						"id": 107,
+						"title": "Tiger Doll",
+						"year": "2018",
+						"src": "/images/dolls/felt-and-fabric/Tiger_Doll_2018_iakl3l.jpg"
+					},
+					{
+						"id": 108,
+						"title": "White Rabbit Girl with Green Hat",
+						"year": "2017",
+						"src": "/images/dolls/felt-and-fabric/White_Rabbit_Girl_with_Green_Hat_2017_vyjdkh.jpg"
+					},
+					{
+						"id": 109,
+						"title": "Wizard of Oz - Cowardly Lion",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Cowardly_Lion_2016_yirxqc.jpg"
+					},
+					{
+						"id": 110,
+						"title": "Wizard Of Oz - Dorothy and Toto",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Dorothy_and_Toto_2016_klxqgv.jpg"
+					},
+					{
+						"id": 111,
+						"title": "Wizard of Oz - Scarecrow",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Scarecrow_2016_n1yqvc.jpg"
+					},
+					{
+						"id": 112,
+						"title": "Wizard of Oz - Tin Man",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_-_Tin_Man_2016_b19wqy.jpg"
+					},
+					{
+						"id": 113,
+						"title": "Wizard Of Oz - Group",
+						"year": "2016",
+						"src": "/images/dolls/felt-and-fabric/Wizard_of_Oz_Group_2016_r78iub.jpg"
+					}
+				]
+			},
+			{
+				"title": "leather dolls",
+				"pieces": [{
+						"id": 114,
+						"title": "Babe the Blue Ox",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Babe_the_Blue_Ox_2016_rm8exs.jpg"
+					},
+					{
+						"id": 115,
+						"title": "Bear Man",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Bear_Man_2016_obr99y.jpg"
+					},
+					{
+						"id": 116,
+						"title": "Black Cat",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Black_Cat_2016_e7bv1i.jpg"
+					},
+					{
+						"id": 117,
+						"title": "Bluebird of Happiness",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Bluebird_of_Happiness_2016_eaoz80.jpg"
+					},
+					{
+						"id": 118,
+						"title": "Butterfly Woman",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Butterfly_Woman_2016_wys6kq.jpg"
+					},
+					{
+						"id": 119,
+						"title": "Carnival Rabbit",
+						"year": "2017",
+						"src": "/images/dolls/leather-dolls/Carnival_Rabbit_2017_axponj.jpg"
+					},
+					{
+						"id": 114,
+						"title": "Deer Man",
+						"year": "2017",
+						"src": "/images/dolls/leather-dolls/Deer_Man_2017_xpx6fk.jpg"
+					},
+					{
+						"id": 115,
+						"title": "Frog Man",
+						"year": "2016",
+						"src": "/images/dolls/leather-dolls/Frog_Man_2016_lyl7wf.jpg"
+					}
+				]
+			},
+			{
+				"title": "nested dolls",
+				"pieces": [{
+						"id": 116,
+						"title": "Alice In Wonderland - Nesting Dolls",
+						"year": "2020",
+						"src": "/images/dolls/nested-dolls/Alice in Wonderland Nesting Dolls 2020.jpg"
+					},
+					{
+						"id": 117,
+						"title": "Magic Critters - Nesting Dolls",
+						"year": "2016",
+						"src": "/images/dolls/nested-dolls/Magic Critters Nesting Dolls 2016.JPG"
+					},
+					{
+						"id": 118,
+						"title": "Nesting Owls",
+						"year": "2018",
+						"src": "/images/dolls/nested-dolls/Nesting Owls 2018.jpg"
+					},
+					{
+						"id": 119,
+						"title": "Paul Bunyan - Nesting Dolls",
+						"year": "2016",
+						"src": "/images/dolls/nested-dolls/Paul Bunyan Nesting Dolls 1 2016.JPG"
+					},
+					{
+						"id": 120,
+						"title": "We Nest In The Woods",
+						"year": "2017",
+						"src": "/images/dolls/nested-dolls/We Nest In The Woods 1 2017.JPG"
+					},
+					{
+						"id": 121,
+						"title": "Wizard of Oz Nesting Dolls",
+						"year": "2020",
+						"src": "/images/dolls/nested-dolls/Wizard of Oz Nesting Dolls 2020.jpg"
+					},
+					{
+						"id": 122,
+						"title": "World Within A World - Nesting Dolls",
+						"year": "2015",
+						"src": "/images/dolls/nested-dolls/World Within a World Nesting Dolls 2015.jpg"
+					}
+				]
+			}
+		]
+	},
+	"4": {
+		"title": "masks",
+		"pieces": [{
+				"id": 123,
+				"title": "Beaded Skull",
+				"year": "2021",
+				"src": "/images/masks/Beaded Skull Mask 2021.JPG"
+			},
+			{
+				"id": 124,
+				"title": "Button Skull",
+				"year": "2021",
+				"src": "/images/masks/Button Skull Mask 2021.JPG"
+			},
+			{
+				"id": 125,
+				"title": "Diablo",
+				"year": "2021",
+				"src": "/images/masks/Diablo Mask  2021.JPG"
+			},
+			{
+				"id": 126,
+				"title": "Great Horned Owl",
+				"year": "2021",
+				"src": "/images/masks/Great Horned Owl mask 2021.JPG"
+			},
+			{
+				"id": 127,
+				"title": "Linen Hood Mask",
+				"year": "2021",
+				"src": "/images/masks/Linen Hood Mask 2021.JPG"
+			},
+			{
+				"id": 128,
+				"title": "Owl Mask",
+				"year": "2017",
+				"src": "/images/masks/Owl Mask 2017.JPG"
+			},
+			{
+				"id": 129,
+				"title": "Snake Mask",
+				"year": "2021",
+				"src": "/images/masks/Snake Mask 2021.JPG"
+			},
+			{
+				"id": 130,
+				"title": "The Void",
+				"year": "2021",
+				"src": "/images/masks/The Void Mask 2021.JPG"
+			},
+			{
+				"id": 131,
+				"title": "Turtle Mask",
+				"year": "2020",
+				"src": "/images/masks/Turtle Mask 2020.JPG"
+			},
+			{
+				"id": 132,
+				"title": "White Rabbit",
+				"year": "2020",
+				"src": "/images/masks/White Rabbit Mask 2020.JPG"
+			}
+		]
+	},
+  "5" : {
+    "title" : "mobiles and hanging sculptures",
+    "pieces" : [{
+      "id" : 133,
+      "title" : "Amulet",
+      "year" : "2021",
+      "src" : "/images/mobiles-and-hanging-sculptures/Amulet 2021.JPG"
+    },
+    {
+      "id" : 134,
+      "title" : "Conundrum",
+      "year" : "2019",
+      "src" : "/images/mobiles-and-hanging-sculptures/Conundrum 2019.jpg"
+    },
+    {
+      "id" : 135,
+      "title" : "Floating Forest Mobile Installation - Shot At Galerie Camille",
+      "year" : "2021",
+      "src" : "/images/mobiles-and-hanging-sculptures/Floating Forest Mobile installation shot at Galerie Camille 2021.jpg"
+    },
+    {
+      "id" : 136,
+      "title" : "She Towers Above, Giant Flying Snake, The Great Curve - Installation Shot",
+      "year" : "2013",
+      "src" : "/images/mobiles-and-hanging-sculptures/She Towers Above, Giant Flying Snake, The Great Curve - Installation Shot 2013.JPG"
+    },
+    {
+      "id" : 137,
+      "title" : "Swarm",
+      "year" : "2021",
+      "src" : "/images/mobiles-and-hanging-sculptures/Swarm 2021.JPG"
+    },
+    {
+      "id" : 138,
+      "title" : "Swarm - Detail",
+      "year" : "2021",
+      "src" : "/images/mobiles-and-hanging-sculptures/Swarm detail 2021.JPG"
+    }
+  ]
+  },
+  "6" : {
+    "title" : "paintings",
+    "pieces" : [{
+      "id" : 139,
+      "title" : "Auspicious Tourquoise Snake",
+      "year" : "2011",
+      "src" : "/images/paintings/Auspicious Tourquoise Snake 2011.jpg"
+    },
+    {
+      "id" : 140,
+      "title" : "Barn Owl",
+      "year" : "2019",
+      "src" : "/images/paintings/Barn Owl 2019.jpg"
+    },
+    {
+      "id" : 141,
+      "title" : "Bear, Bird, Bees",
+      "year" : "2019",
+      "src" : "/images/paintings/Bear, Bird, Bees 2019.jpg"
+    },
+    {
+      "id" : 142,
+      "title" : "Big Orange Snake heart In Hand",
+      "year" : "2011",
+      "src" : "/images/paintings/Big Orange Snake Heart in Hand 2011.jpg"
+    },
+    {
+      "id" : 143,
+      "title" : "Black Snake Hamsa",
+      "year" : "2015",
+      "src" : "/images/paintings/Black Snake Hamsa 2015.jpg"
+    },
+    {
+      "id" : 144,
+      "title" : "Blue Snake, Bees, Lotus",
+      "year" : "2015",
+      "src" : "/images/paintings/Blue snake, Bees, Lotus 2015.jpg"
+    },
+    {
+      "id" : 145,
+      "title" : "Deep In The Forest",
+      "year" : "2017",
+      "src" : "/images/paintings/Deep in the Forest 2017.JPG"
+    },
+    {
+      "id" : 146,
+      "title" : "Dry Bones",
+      "year" : "2011",
+      "src" : "/images/paintings/Dry Bones 2011.jpg"
+    },
+    {
+      "id" : 147,
+      "title" : "El Corazon",
+      "year" : "2015",
+      "src" : "/images/paintings/El Corazon 2015.jpg"
+    },
+    {
+      "id" : 148,
+      "title" : "Full Moon Crows",
+      "year" : "2016",
+      "src" : "/images/paintings/Full Moon Crows 2016.JPG"
+    },
+    {
+      "id" : 149,
+      "title" : "Green Snake With 21 Bees",
+      "year" : "2011",
+      "src" : "/images/paintings/Green Snake with 21 Bees 2011.jpg"
+    },
+    {
+      "id" : 150,
+      "title" : "Infinite Ourobouros",
+      "year" : "2011",
+      "src" : "/images/paintings/Infinite Ourobouros 2011.jpg"
+    },
+    {
+      "id" : 151,
+      "title" : "King Crow",
+      "year" : "2016",
+      "src" : "/images/paintings/King Crow 2016.jpg"
+    },
+    {
+      "id" : 152,
+      "title" : "King Infinite Ourobouros for Jack",
+      "year" : "2017",
+      "src" : "/images/paintings/King Infinite Ourobouros for Jack 2017.JPG"
+    },
+    {
+      "id" : 153,
+      "title" : "King of Snakes with Lotus and Crow",
+      "year" : "2015",
+      "src" : "/images/paintings/King of Snakes with Lotus and Crow 2015.jpg"
+    },
+    {
+      "id" : 154,
+      "title" : "Hand Snake Blue",
+      "year" : "2015",
+      "src" : "/images/paintings/Lotus Hand Snake blue 2015.jpg"
+    },
+    {
+      "id" : 155,
+      "title" : "Hand Snake Red",
+      "year" : "2015",
+      "src" : "/images/paintings/Lotus Hand Snake red 2015.jpg"
+    },
+    {
+      "id" : 156,
+      "title" : "Lotus Turtle Blue",
+      "year" : "2015",
+      "src" : "/images/paintings/Lotus Turtle blue 2015.jpg"
+    },
+    {
+      "id" : 157,
+      "title" : "Orange Ourobouros",
+      "year" : "2015",
+      "src" : "/images/paintings/Orange Ourobouros 2015.jpg"
+    },
+    {
+      "id" : 158,
+      "title" : "Paisley Snake black",
+      "year" : "2011",
+      "src" : "/images/paintings/Paisley Snake black 2011.jpg"
+    },
+    {
+      "id" : 159,
+      "title" : "Snake Red",
+      "year" : "2011",
+      "src" : "/images/paintings/Paisley Snake red 2011.jpg"
+    },
+    {
+      "id" : 160,
+      "title" : "Queen Bee",
+      "year" : "2017",
+      "src" : "/images/paintings/Queen Bee 2017.JPG"
+    },
+    {
+      "id" : 161,
+      "title" : "Queen Of The Night",
+      "year" : "2017",
+      "src" : "/images/paintings/Queen of the Night 2017.JPG"
+    },
+    {
+      "id" : 162,
+      "title" : "Raven Woman",
+      "year" : "2017",
+      "src" : "/images/paintings/Raven Woman 2017.JPG"
+    },
+    {
+      "id" : 163,
+      "title" : "Robin",
+      "year" : "2016",
+      "src" : "/images/paintings/Robin 2016.JPG"
+    },
+    {
+      "id" : 164,
+      "title" : "Snake In The Garden",
+      "year" : "2019",
+      "src" : "/images/paintings/Snake in the Garden 2019.jpg"
+    },
+    {
+      "id" : 165,
+      "title" : "Squaring the Circle",
+      "year" : "2021",
+      "src" : "/images/paintings/Squaring the Circle 2011.jpg"
+    },
+    {
+      "id" : 166,
+      "title" : "Tourquoise Snake with Turtle and Bees",
+      "year" : "2011",
+      "src" : "/images/paintings/Tourquoise Snake with Turtle and Bees 2011.jpg"
+    },
+    {
+      "id" : 167,
+      "title" : "Two Snakes, Bees, Lotus",
+      "year" : "2015",
+      "src" : "/images/paintings/Two Snakes, Bees, Lotus 2015.jpg"
+    },
+    {
+      "id" : 168,
+      "title" : "Yellow Snake with Bees",
+      "year" : "2011",
+      "src" : "/images/paintings/Yellow Snake with Bees 2011.jpg"
+    }
+  ]
+  },
+  "7" : {
+    "title" : "papa legba",
+    "pieces" : [{
+        "id" : 169,
+        "title" : "Box For Papa Legba 1",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Box for Papa Legba 1 2017.JPG"
       },
-      { "id" : 2,
-        "title": "Black Bear",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Black_Bear_2020_gbkac6.jpg"
+      {
+        "id" : 170,
+        "title" : "Box For Papa Legba 2",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Box for Papa Legba 2 2017.JPG"
       },
-      { "id" : 3,
-        "title": "Black Widow",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Black_Widow_2016_fhrohu.jpg"
+      {
+        "id" : 171,
+        "title" : "Papa Legba Detail 1",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 1 2017.jpg"
       },
-      { "id" : 4,
-        "title": "Blue Morpho",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Blue_Morpho_2016_samg8g.jpg"
+      {
+        "id" : 172,
+        "title" : "Papa Legba Detail 2",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 2 2017.jpg"
       },
-      { "id" : 5,
-        "title": "Blue Pink Gold Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Blue_Pink_Gold_Bug_2016_lbol34.jpg"
+      {
+        "id" : 173,
+        "title" : "Papa Legba Detail 3",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 3 2017.jpg"
       },
-      { "id" : 6,
-        "title": "Blue Snake",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Blue_Snake_2016_j4cbgd.jpg"
+      {
+        "id" : 174,
+        "title" : "Papa Legba Detail 4",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 4 2017.jpg"
       },
-      { "id" : 7,
-        "title": "Cicada",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Cicada_2016_zcmvcl.jpg"
+      {
+        "id" : 175,
+        "title" : "Papa Legba Detail 5",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 5 2017.jpg"
       },
-      { "id" : 8,
-        "title": "Collection Of Insects FOr MOCAD",
-        "year": "2012",
-        "src": "/images/animals-and-instincts/Collection_of_Insects_for_MOCAD_2012_lzqtbg.jpg"
+      {
+        "id" : 176,
+        "title" : "Papa Legba Detail 6",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 6 2017.jpg"
       },
-      { "id" : 9,
-        "title": "Dragonfly",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Dragonfly_2016_hmhcr7.jpg"
-      },
-      { "id" : 10,
-        "title": "Felt Turtle",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Felt_Turtle_2020_o2peqk.jpg"
-      },
-      { "id" : 11,
-        "title": "Goldfinch",
-        "year": "2017",
-        "src": "/images/animals-and-instincts/Goldfinch_2017_kjbssz.jpg"
-      },
-      { "id" : 12,
-        "title": "Grand Duchess Butterfly",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Grand_Duchess_Butterfly_2016_ghkuo6.jpg"
-      },
-      { "id" : 13,
-        "title": "Green Beaded Wing Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Green_Beaded_Wing_Bug_2016_zowux7.jpg"
-      },
-      { "id" : 14,
-        "title": "Green Caterpillar",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Green_Caterpillar_2016_rbxocw.jpg"
-      },
-      { "id" : 15,
-        "title": "Green Velvet Beaded Silver Wing",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Green_Velvet_Beaded_Silver_Wing_2016_zxxkmk.jpg"
-      },
-      { "id" : 16,
-        "title": "Hummingbird",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Hummingbird_2016_tx7yoy.jpg"
-      },
-      { "id" : 17,
-        "title": "Katydid",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Katydid_2016_ctjkhu.jpg"
-      },
-      { "id" : 18,
-        "title": "Little Felt Bee",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Little_Felt_Bee_2020_kasrfx.jpg"
-      },
-      { "id" : 19,
-        "title": "Monarch Butterfy",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Monarch_Butterflu_2016_t4gajl.jpg"
-      },
-      { "id" : 20,
-        "title": "Orange Banded Sulphur",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Orange_Banded_Sulphur_2016_amnswl.jpg"
-      },
-      { "id" : 21,
-        "title": "Orange Pink Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Orange_Pink_Bug_2016_ftmfve.jpg"
-      },
-      { "id" : 22,
-        "title": "Orange Purple Pink Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Orange_Purple_Pink_Bug_2016_byglhy.jpg"
-      },
-      { "id" : 23,
-        "title": "Pink Ant",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Pink_Ant_2016_stfc6t.jpg"
-      },
-      { "id" : 24,
-        "title": "Pink Green Blue Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Pink_Green_Blue_Bug_2016_tgewvf.jpg"
-      },
-      { "id" : 25,
-        "title": "Pink Lizard",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Pink_Lizard_2016_eznfja.jpg"
-      },
-      { "id" : 26,
-        "title": "Praying Mantis",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Praying_Mantis_2016_ni66nm.jpg"
-      },
-      { "id" : 27,
-        "title": "Purple Gold Blue Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Purple_Gold_Blue_Bug_2016_ujepg2.jpg"
-      },
-      { "id" : 28,
-        "title": "Purple Octopus",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Purple_Octopus_2020_zk2vr2.jpg"
-      },
-      { "id" : 29,
-        "title": "Queen Bee",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Queen_Bee_2020_kfrj14.jpg"
-      },
-      { "id" : 30,
-        "title": "Red Headed Sparkle Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Red_Headed_Sparkle_Bug_2016_sui7zi.jpg"
-      },
-      { "id" : 31,
-        "title": "Red Nymph",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Red_Nymph_2016_rorrdx.jpg"
-      },
-      { "id" : 32,
-        "title": "Red Polka Dot Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Red_Polka_Dot_Bug_2016_ptdphg.jpg"
-      },
-      { "id" : 33,
-        "title": "Silk Bee",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Silk_Bee_2016_mum52d.jpg"
-      },
-      { "id" : 34,
-        "title": "Silk Crow",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Silk_Crow_2016_fcfr2s.jpg"
-      },
-      { "id" : 35,
-        "title": "Silk Frog",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Silk_Frog_2016_wz0nd7.jpg"
-      },
-      { "id" : 36,
-        "title": "Silky Ruffle Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Silky_Ruffle_Bug_2016_rdapcp.jpg"
-      },
-      { "id" : 37,
-        "title": "Two Frogs",
-        "year": "2020",
-        "src": "/images/animals-and-instincts/Two_Frogs_2020_yal8ly.jpg"
-      },
-      { "id" : 38,
-        "title": "Two Tone Green Bug",
-        "year": "2016",
-        "src": "/images/animals-and-instincts/Two_Tone_Green_Bug_2016_wuuop9.jpg"
+      {
+        "id" : 177,
+        "title" : "Papa Legba Detail 7",
+        "year" : "2017",
+        "src" : "/images/papa-legba/Papa Legba detail 7 2017.jpg"
       }
     ]
   },
-  "1" : {
-        "category" : "collages",
-        "pieces" : [
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-            {
-                "id" : 39,
-                "title" : "",
-                "year" : "",
-                "src": ""
-            },
-        ]
-}
+  "8" : {
+    "title" : "shadow puppets",
+    "pieces" : [{
+      "id" : 178,
+      "title" : "Forest Shadows 1",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 1 2019.JPG"
+    },
+    {
+      "id" : 179,
+      "title" : "Forest Shadows 2",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 2 2019.JPG"
+    },
+    {
+      "id" : 180,
+      "title" : "Forest Shadows 3",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 3 2019.JPG"
+    },
+    {
+      "id" : 181,
+      "title" : "Forest Shadows 4",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 4 2019.JPG"
+    },
+    {
+      "id" : 182,
+      "title" : "Forest Shadows 5",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 5 2019.JPG"
+    },
+    {
+      "id" : 183,
+      "title" : "Forest Shadows 6",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 6 2019.JPG"
+    },
+    {
+      "id" : 184,
+      "title" : "Forest Shadows 7",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 7 2019.JPG"
+    },
+    {
+      "id" : 185,
+      "title" : "Forest Shadows 8",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 8 2019.JPG"
+    },
+    {
+      "id" : 186,
+      "title" : "Forest Shadows 9",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 9 2019.JPG"
+    },
+    {
+      "id" : 187,
+      "title" : "Forest Shadows 10",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 10 2019.JPG"
+    },
+    {
+      "id" : 188,
+      "title" : "Forest Shadows 11",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 11 2019.JPG"
+    },
+    {
+      "id" : 189,
+      "title" : "Forest Shadows 12",
+      "year" : "2019",
+      "src" : "/images/shadow-puppets/Forest Shadows 12 2019.JPG"
+    },
+    {
+      "id" : 190,
+      "title" : "Shadow Bee",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Bee 2015.jpg"
+    },
+    {
+      "id" : 191,
+      "title" : "Shadow Diablo",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Diablo 2015.jpg"
+    },
+    {
+      "id" : 192,
+      "title" : "Shadow Dragon",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Dragon 2015.jpg"
+    },
+    {
+      "id" : 193,
+      "title" : "Shadow Dragonfly",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Dragonfly 2015.jpg"
+    },
+    {
+      "id" : 194,
+      "title" : "Sgadiw Exotic Bird",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Exotic Bird 2015.jpg"
+    },
+    {
+      "id" : 195,
+      "title" : "Shadow Hanged Man",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Hanged Man 2015.jpg"
+    },
+    {
+      "id" : 196,
+      "title" : "Shadow Hungry Ghost",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Hungry Ghost 2015.jpg"
+    },
+    {
+      "id" : 197,
+      "title" : "Shadow Kali",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Kali 2015.jpg"
+    },
+    {
+      "id" : 198,
+      "title" : "Shadow Mermaid",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Mermaid 2015.jpg"
+    },
+    {
+      "id" : 199,
+      "title" : "Shadow Moth",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Moth 2015.jpg"
+    },
+    {
+      "id" : 200,
+      "title" : "Shadow Owl",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Owl 2015.jpg"
+    },
+    {
+      "id" : 201,
+      "title" : "Shadow Play Installation",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Play installation 2015.jpg"
+    },
+    {
+      "id" : 202,
+      "title" : "Shadow Rabbit Man",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Rabbit Man 2015.jpg"
+    },
+    {
+      "id" : 203,
+      "title" : "Shadow Skeleton",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Skeleton 2015.jpg"
+    },
+    {
+      "id" : 204,
+      "title" : "Shadow Snake",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Snake 2015.jpg"
+    },
+    {
+      "id" : 205,
+      "title" : "Shadow Spider",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Spider 2015.jpg"
+    },
+    {
+      "id" : 206,
+      "title" : "Shadow Turtle",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Turtle 2015.jpg"
+    },
+    {
+      "id" : 207,
+      "title" : "Shadow Wolf",
+      "year" : "2015",
+      "src" : "/images/shadow-puppets/Shadow Wolf 2015.jpg"
+    }
+  ]
+  },
+  "9" : {
+    "title" : "textiles",
+    "pieces" : [{
+      "id" : 208,
+      "title" : "Dark Snake",
+      "year" : "2016",
+      "src" : "/images/textiles/Dark Snake 2016.jpg"
+    },
+    {
+      "id" : 209,
+      "title" : "Emblem - Lotus",
+      "year" : "2016",
+      "src" : "/images/textiles/Emblem - Lotus 2016.jpg"
+    },
+    {
+      "id" : 210,
+      "title" : "Emblem - Snake",
+      "year" : "2016",
+      "src" : "/images/textiles/Emblem - Snake 2016.JPG"
+    },
+    {
+      "id" : 211,
+      "title" : "Ex Voto - All",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto  all 2018.JPG"
+    },
+    {
+      "id" : 212,
+      "title" : "Ex Voto 1",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 1 2018.jpg"
+    },
+    {
+      "id" : 213,
+      "title" : "Ex Voto 2",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 2 2018.JPG"
+    },
+    {
+      "id" : 214,
+      "title" : "Ex Voto 3",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 3 2018.JPG"
+    },
+    {
+      "id" : 215,
+      "title" : "Ex Voto 4",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 4 2018.JPG"
+    },
+    {
+      "id" : 216,
+      "title" : "Ex Voto 5",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 5 2018.JPG"
+    },
+    {
+      "id" : 217,
+      "title" : "Ex Voto 6",
+      "year" : "2018",
+      "src" : "/images/textiles/Ex Voto 6 2018.JPG"
+    },
+    {
+      "id" : 218,
+      "title" : "Four Corners Protection",
+      "year" : "2020",
+      "src" : "/images/textiles/Four Corners Protection 2020.JPG"
+    },
+    {
+      "id" : 219,
+      "title" : "Gently Down The Strea",
+      "year" : "2021",
+      "src" : "/images/textiles/Gently Down the Stream 2021.JPG"
+    },
+    {
+      "id" : 220,
+      "title" : "Insect Apocalypse",
+      "year" : "2021",
+      "src" : "/images/textiles/Insect Apocalypse 2020.JPG"
+    },
+    {
+      "id" : 221,
+      "title" : "Let It Be",
+      "year" : "2018",
+      "src" : "/images/textiles/Let It Be  2018.JPG"
+    },
+    {
+      "id" : 222,
+      "title" : "Night Garden",
+      "year" : "2020",
+      "src" : "/images/textiles/Night Garden 2020.JPG"
+    },
+    {
+      "id" : 223,
+      "title" : "Power Snake With Amulets",
+      "year" : "2016",
+      "src" : "/images/textiles/Power Snake with Amulets 2016.jpg"
+    },
+    {
+      "id" : 224,
+      "title" : "Protection Snake",
+      "year" : "2021",
+      "src" : "/images/textiles/Protection Snake 2021.JPG"
+    },
+    {
+      "id" : 225,
+      "title" : "Rainbow Serpent",
+      "year" : "2020",
+      "src" : "/images/textiles/Rainbow Serpent 2020.JPG"
+    },
+    {
+      "id" : 26,
+      "title" : "Sacred Heart",
+      "year" : "2020",
+      "src" : "/images/textiles/Sacred Heart 2020.JPG"
+    },
+    {
+      "id" : 227,
+      "title" : "Spirit Voices",
+      "year" : "2017",
+      "src" : "/images/textiles/Spirit Voices 2017.JPG"
+    },
+    {
+      "id" : 228,
+      "title" : "Upsnake Downsnake",
+      "year" : "2020",
+      "src" : "/images/textiles/Upsnake Downsnake 2020.JPG"
+    },
+    {
+      "id" : 229,
+      "title" : "You Are Here",
+      "year" : "2017",
+      "src" : "/images/textiles/You Are Here 2017.JPG"
+    },
+    {
+      "id" : 230,
+      "title" : "Zimbabwe Cultural Center Of Detroit",
+      "year" : "2016",
+      "src" : "/images/textiles/Zimbabwe Cultural Center of Detroit 2016.jpg"
+    }
+  ]
+  }
 }
