@@ -796,7 +796,7 @@
 		]
 	},
 	"4": {
-		"title": "masks",
+		"category": "masks",
 		"pieces": [{
 				"id": 123,
 				"title": "Beaded Skull",
@@ -859,8 +859,8 @@
 			}
 		]
 	},
-  "5" : {
-    "title" : "mobiles and hanging sculptures",
+  	"5" : {
+    "category" : "mobiles and hanging sculptures",
     "pieces" : [{
       "id" : 133,
       "title" : "Amulet",
@@ -898,9 +898,9 @@
       "src" : "/images/mobiles-and-hanging-sculptures/Swarm detail 2021.JPG"
     }
   ]
-  },
-  "6" : {
-    "title" : "paintings",
+  	},
+  	"6" : {
+    "category" : "paintings",
     "pieces" : [{
       "id" : 139,
       "title" : "Auspicious Tourquoise Snake",
@@ -1082,9 +1082,9 @@
       "src" : "/images/paintings/Yellow Snake with Bees 2011.jpg"
     }
   ]
-  },
-  "7" : {
-    "title" : "papa legba",
+  	},
+  	"7" : {
+    "category" : "papa legba",
     "pieces" : [{
         "id" : 169,
         "title" : "Box For Papa Legba 1",
@@ -1140,9 +1140,9 @@
         "src" : "/images/papa-legba/Papa Legba detail 7 2017.jpg"
       }
     ]
-  },
-  "8" : {
-    "title" : "shadow puppets",
+  	},
+  	"8" : {
+    "category" : "shadow puppets",
     "pieces" : [{
       "id" : 178,
       "title" : "Forest Shadows 1",
@@ -1324,9 +1324,9 @@
       "src" : "/images/shadow-puppets/Shadow Wolf 2015.jpg"
     }
   ]
-  },
-  "9" : {
-    "title" : "textiles",
+  	},
+  	"9" : {
+    "category" : "textiles",
     "pieces" : [{
       "id" : 208,
       "title" : "Dark Snake",
@@ -1466,5 +1466,5 @@
       "src" : "/images/textiles/Zimbabwe Cultural Center of Detroit 2016.jpg"
     }
   ]
-  }
+  	}
 }
