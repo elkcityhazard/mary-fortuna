@@ -39,7 +39,21 @@ gridItems.forEach((item) => {
     })
     
 })
+
+
 </script> 
 
+
+{{ range .Site.Data.imageData }}
+
+{{ with .pieces }}
+
+{{ range . }}
+<figure>
+    <img data-src="{{ .src | absURL }}" class="lazy">
+</figure>
+{{ end }}
+{{ end }}
 {{ end }}
 
+{{ end }}
