@@ -58,9 +58,11 @@
             <div class="column">
                 <h3>Follow Mary Fortuna</h3>
                 <hr class="has-background-primary">
-                {{ range .Site.Params.social}}
-                    <a href="{{ .URL}}" title="{{ .name }}" class="social-icon has-background-primary"><i class="{{.icon}}"></i></a>
+                <div class="is-flex">
+                    {{ range .Site.Params.social}}
+                    <a href="{{ .url }}" title="{{ .name }}" class="social-icon has-background-primary mr-2" rel="noreferrer noopenner" target="_parent"><i class="{{.icon}}"></i></a>
                 {{ end }}
+                </div>
             </div>
         </div>
     </div>

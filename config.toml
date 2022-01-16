@@ -15,6 +15,11 @@ name = "facebook"
 url = "https://www.facebook.com/mary.fortuna"
 icon = "fa fa-facebook fa-2x"
 
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/mary.fortuna/"
+icon = "fa fa-instagram fa-2x"
+
 
 
 

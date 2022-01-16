@@ -264,15 +264,22 @@ header {
       overflow: hidden;
       a {
         span {
+          opacity: 1;
           padding: 1rem;
           transition: all 500ms ease;
           -webkit-transition: all 500ms ease;
+          @media screen and (min-width: 968px) {
+            opacity: 1;
+          }
         }
       }
       &:hover {
         a {
           span {
-            opacity: 0;
+            opacity: 1;
+            @media screen and (min-width: 968px) {
+              opacity: 0;
+            }
           }
         }
       }
