@@ -69,7 +69,6 @@ fields:
   label: Categories
   description: Categories Here (dolls, collages, blog post, lifestyle, etc)
 pages:
-- content/blog/hello-my-name-is-mary-fortuna.md
 - content/blog/mario-paints-the-castle.md
 - content/blog/yoshi-the-painter.md
 - content/gallery/animals-and-insects/index.md
