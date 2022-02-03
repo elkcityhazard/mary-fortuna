@@ -4,7 +4,7 @@
         class="section columns is-desktop is-flex-wrap-wrap mx-auto is-justify-content-space-evenly is-align-items-center has-text-centered">
         {{ range .Pages }}
         <div class="card column is-12-mobile is-12-tablet is-6-desktop is-3-widescreen is-4-fullhd p-0 mb-3 mx-3" 
-        {{-with .Params.image_upload -}}
+        {{- with .Params.image_upload -}}
             style="background: #e6e6e6 url('{{- . | absURL -}}') no-repeat center center / cover;" {{ else }}
             style="background: #e6e6e6 url('/images/masks/Great Horned Owl mask 2021.JPG') no-repeat center center / cover;"
             {{ end }}>
