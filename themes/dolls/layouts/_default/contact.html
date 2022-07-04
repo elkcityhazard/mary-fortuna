@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="container columns mx-auto">
     <section class="column is-half mx-auto">
-        <form action="https://api.formcake.com/api/form/588668f6-b0b8-4631-8bd1-4f1694fa54e5/submission" method="post" id="mainForm" class="my-3 mx-auto">
+        <form action="https://api.formcake.com/api/form/588668f6-b0b8-4631-8bd1-4f1694fa54e5/submission" method="post" id="contact-form" class="my-3 mx-auto">
             <div class="field" style="display: none;">
                 <label for="custom_username" class="label"></label>
                 <div class="control">
@@ -46,9 +46,9 @@
               </div>
         </form>
 
-        <script>
+        <script defer>
             function onSubmit(token) {
-                document.getElementById("mainForm").submit();
+                document.getElementById("contact-form").submit();
             }
             </script>
 
