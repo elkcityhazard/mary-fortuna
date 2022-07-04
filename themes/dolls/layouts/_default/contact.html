@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="container columns mx-auto">
-    <section class="column is-half mx-auto">
-        <form action="https://api.formcake.com/api/form/cd3bd931-f0ac-40d0-a022-21b957181f73/submission" method="post" id="main-form" class="my-3 mx-auto">
+    <section class="column is-half mx-auto is-hidden">
+        <form action="https://api.formcake.com/api/form/cd3bd931-f0ac-40d0-a022-21b957181f73/submission" method="post" id="main-form" class="my-3 mx-auto is-hidden">
             <div class="field" style="display: none;">
                 <label for="custom_username" class="label"></label>
                 <div class="control">
@@ -52,6 +52,9 @@
             }
             </script>
 
+    </section>
+    <section class="columns is-half mx-auto p-3">
+        If you are interested in commissioning Mary, or have a question about Mary's work, contact her below.
     </section>
 </main>
 {{ end }}
