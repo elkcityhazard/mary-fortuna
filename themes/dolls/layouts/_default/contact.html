@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="container columns mx-auto">
     <section class="column is-half mx-auto">
-        <form action="https://api.formcake.com/api/form/588668f6-b0b8-4631-8bd1-4f1694fa54e5/submission" method="post" id="contact-form" class="my-3 mx-auto">
+        <form action="https://api.formcake.com/api/form/417e399f-7020-41e5-bf70-09b28794f68c/submission" method="post" id="footerForm" class="my-3 mx-auto">
             <div class="field" style="display: none;">
                 <label for="custom_username" class="label"></label>
                 <div class="control">
@@ -9,23 +9,23 @@
                 </div>
             </div>
             <div class="field">
-                <label for="username" class="label"></label>
+                <label for="name" class="label"></label>
                 <div class="control">
-                    <input type="text" class="input" name="username" placeholder="Enter your name">
+                    <input type="text" class="input" name="name" placeholder="Enter your name">
                 </div>
                 <p>Enter your designated name</p>
             </div>
             <div class="field">
-                <label for="useremail" class="label"></label>
+                <label for="email" class="label"></label>
                 <div class="control">
-                    <input type="email" class="input" name="useremail" placeholder="Enter your email address">
+                    <input type="email" class="input" name="email" placeholder="Enter your email address">
                 </div>
                 <p>Enter your email address</p>
             </div>
             <div class="field">
-                <label for="usermessage" class="label"></label>
+                <label for="message" class="label"></label>
                 <div class="control">
-                    <textarea class="textarea" name="usermessage" placeholder="Type your message here"></textarea>
+                    <textarea class="textarea" name="message" placeholder="Type your message here"></textarea>
                 </div>
                 <p>Enter your message</p>
             </div>
@@ -48,7 +48,7 @@
 
         <script>
             function onSubmit(token) {
-                document.getElementById("contact-form").submit();
+                document.getElementById("footerForm").submit();
             }
             </script>
 
